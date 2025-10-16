@@ -52,8 +52,8 @@ This repository documents my travel experiences and flight history.
 - ✈️ Starlux Airlines / 星宇航空  
 - ✈️ EVA Air / 長榮航空  
 - ✈️ China Airlines / 中華航空  
-- ✈️ Japan Airlines (JAL) / 日本航空  
-- ✈️ All Nippon Airways (ANA) / 全日空  
+- ✈️ Japan Airlines / 日本航空  
+- ✈️ All Nippon Airways / 全日空  
 - ✈️ Scoot / 酷航  
 - ✈️ Cathay Pacific / 國泰航空  
 - ✈️ AirAsia / 亞洲航空
@@ -81,3 +81,4 @@ This repository contains flight records in two formats:
 ---
 
 *最後更新 / Last Updated: 2025/10/03*
+
