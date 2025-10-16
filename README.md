@@ -10,8 +10,8 @@ This repository documents my travel experiences and flight history.
 ## 📂 文件結構 / File Structure
 
 ### 飛行記錄 / Flight History
-- [中文版飛行記錄 / Chinese Version](./flight-history-zh.md) - 完整的中文航班記錄 / Complete flight records in Chinese
-- [英文版飛行記錄 / English Version](./flight-history-en.md) - 完整的英文航班記錄 / Complete flight records in English
+- [飛行記錄 / ZH-TW Version](./flight-history-zh.md) - 完整航班記錄
+- [Flight Recoeds / EN-US Version](./flight-history-en.md) - Complete flight records
 
 ---
 
@@ -78,5 +78,6 @@ This repository contains flight records in two formats:
 - **ME**: 獨自旅行 / Solo travel
 
 ---
+
 
 *最後更新 / Last Updated: 2024/10/03*
