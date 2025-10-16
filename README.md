@@ -17,10 +17,12 @@ This repository documents my travel experiences and flight history.
 
 ## 📊 快速統計 / Quick Statistics
 
-- **總旅程數 / Total Trips**: 18 趟 / 18 trips
-- **總航班數 / Total Flights**: 35 個航班 / 35 flights
-- **記錄期間 / Period**: 2001 - 2026
-- **旅行類型 / Travel Types**: Family, Ray, ME
+| 項目 / Category | 數據 / Data |
+|-----------------|-------------|
+| **總旅程數 / Total Trips** | 18 趟 / 18 trips |
+| **總航班數 / Total Flights** | 35 個航班 / 35 flights |
+| **記錄期間 / Period** | 2001 - 2026 |
+| **旅行類型 / Travel Types** | Family / Ray / ME |
 
 ---
 
@@ -47,7 +49,7 @@ This repository documents my travel experiences and flight history.
 
 ---
 
-## ✈️ 常用航空公司 / Frequent Airlines
+## ✈️ 航空公司紀錄 / Airline Records
 
 - ✈️ Starlux Airlines / 星宇航空  
 - ✈️ EVA Air / 長榮航空  
@@ -58,20 +60,6 @@ This repository documents my travel experiences and flight history.
 - ✈️ Cathay Pacific / 國泰航空  
 - ✈️ AirAsia / 亞洲航空
 
-
----
-
-## 📝 說明 / Description
-
-此 repository 包含兩種格式的飛行記錄:
-
-This repository contains flight records in two formats:
-
-1. **往返合併版 / Round-trip Combined** - 將去程和回程合併在同一列,方便查看完整旅程 / Combines outbound and return flights in one row for easy viewing of complete trips
-2. **單程分開版 / One-way Separated** - 每個航班獨立一列,適合詳細查詢 / Each flight in a separate row for detailed queries
-
----
-
 ## 🔖 旅行類型說明 / Travel Type Description
 
 - **Family**: 家庭旅行 / Family trips
@@ -81,4 +69,5 @@ This repository contains flight records in two formats:
 ---
 
 *最後更新 / Last Updated: 2025/10/03*
+
 
