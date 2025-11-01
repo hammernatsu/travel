@@ -35,7 +35,7 @@ This repository documents my travel experiences and flight history.
 - 名古屋 Nagoya (NGO)
 - 札幌 Sapporo (CTS)
 - 沖繩 Okinawa (OKA)
-- 新潟 Niigata (NHD)
+- 新潟 Niigata (HND)
 - 仙台 Sendai (SDJ)
 
 ### 🇹🇭 泰國 / Thailand
@@ -69,6 +69,7 @@ This repository documents my travel experiences and flight history.
 ---
 
 *最後更新 / Last Updated: 2025/10/03*
+
 
 
 
