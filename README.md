@@ -1,5 +1,5 @@
 # 旅遊記錄 / Travel Records
-**by Hamemer**
+**by Hammer**
 
 這是記錄了我的旅遊經歷和飛行歷史。
 
@@ -69,5 +69,6 @@ This repository documents my travel experiences and flight history.
 ---
 
 *最後更新 / Last Updated: 2025/10/03*
+
 
 
