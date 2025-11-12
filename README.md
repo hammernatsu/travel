@@ -67,7 +67,8 @@ Recorded my travels and flights
 
 ---
 
-*最後更新 / Last Updated: 2025/10/03*
+*最後更新 / Last Updated: 2025/11/12*
+
 
 
 
