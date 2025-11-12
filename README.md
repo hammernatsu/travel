@@ -19,8 +19,8 @@ This repository documents my travel experiences and flight history.
 
 | 項目 / Category | 數據 / Data |
 |-----------------|-------------|
-| **總旅程數 / Total Trips** | 18 趟 / 18 trips |
-| **總航班數 / Total Flights** | 35 個航班 / 35 flights |
+| **總旅程數 / Total Trips** | 19 趟 / 19 trips |
+| **總航班數 / Total Flights** | 36 個航班 / 36 flights |
 | **記錄期間 / Period** | 2001 - 2026 |
 | **旅行類型 / Travel Types** | Family / Ray / ME |
 
@@ -69,6 +69,7 @@ This repository documents my travel experiences and flight history.
 ---
 
 *最後更新 / Last Updated: 2025/10/03*
+
 
 
 
