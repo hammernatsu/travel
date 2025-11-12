@@ -1,17 +1,16 @@
 # 旅遊記錄 / Travel Records
 **by Hammer**
 
-這是記錄了我的旅遊經歷和飛行歷史。
+記錄了我的旅遊和飛行
 
-This repository documents my travel experiences and flight history.
+Recorded my travels and flights
 
 ---
 
-## 📂 文件結構 / File Structure
+## 詳細飛行記錄 / Flight History
 
-### 飛行記錄 / Flight History
-- [飛行記錄 / ZH-TW Version](./flight-history-zh.md) - 完整航班記錄
-- [Flight Recoeds / EN-US Version](./flight-history-en.md) - Complete flight records
+
+- [詳細飛行記錄](./flight-history-zh.md) / [Flight Recoeds](./flight-history-en.md)
 
 ---
 
@@ -69,6 +68,7 @@ This repository documents my travel experiences and flight history.
 ---
 
 *最後更新 / Last Updated: 2025/10/03*
+
 
 
 
