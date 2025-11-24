@@ -1,8 +1,8 @@
 # 我的飛行記錄
 
 ## 📊 統計資訊
-- **總旅程數**: 19 趟
-- **總航班數**: 36 個航班
+- **總旅程數**: 20 趟
+- **總航班數**: 39 個航班
 - **記錄期間**: 2001 - 2026
 - **旅行類型**: Family, Ray, ME
 
@@ -29,8 +29,9 @@
 | 15  | 2024 | 12/18    | 12/24    | TPE<br>NGO | NGO<br>TPE | JAL<br>JAL                       | JL8670<br>JL8671 | B737-800<br>B737-800 | Ray         | 八年蜜月北陸合掌村         |
 | 16  | 2025 | 04/10    | 04/16    | TPE<br>DMK | DMK<br>TPE | Thai Lion<br>Thai Airways        | SL395<br>TG636   | B737-900<br>A320     | Ray         | 泰國吃吃喝喝 feat啾嘗試蘑菇|
 | 17  | 2025 | 04/28    | 05/04    | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines     | JX725<br>MH366   | A321-neo<br>B737-800 | ME          | 任性大馬遊                 |
-| 18  | 2026 | 02/16    | 02/23    | TSA<br>HND | HND<br>TSA | ANA<br>EVA                       | NH854<br>BR191   | 787-800<br>787-10    | Family      | 恕娘過年新潟草津           |
-| 19* | 2026 | 09/27    | -        | TPE        | NRT        | Thai Lion                        | SL394            | 787-800              | Ray         | 十年一刻                   |
+| 18  | 2026 | 02/16    | 02/23    | TSA<br>HND | HND<br>TSA | ANA<br>EVA                       | NH854<br>BR191   | B787-800<br>B787-10  | Family      | 恕娘過年新潟草津           |
+| 19* | 2026 | 09/27    | -        | TPE<br>HND | NRT<br>KIX | Thai Lion<br>JAL                 | SL394<br>JL229   | B787-800<br>B737-800 | Ray         | 十年一刻                   |
+| 20  | 2026 | 09/27    | 09/27    | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger                   | IT232<br>IT231   | A320<br>A320         | Ray         | 沖繩快閃                   |
 
 ---
 
@@ -52,8 +53,8 @@
 | 12  | 2019 | 11/04 | NRT       | TPE      | Scoot               | TR899      | B787-8        | Family      | 瘋狂東京快閃                   |
 | 13  | 2020 | 01/23 | TPE       | NGO      | China Airlines      | CI150      | A333          | Family      | 恕娘過年名古屋雪駕             |
 | 14  | 2020 | 01/28 | NGO       | TPE      | China Airlines      | CI155      | A321-neo      | Family      | 恕娘過年名古屋雪駕             |
-| 15  | 2023 | 01/19 | TPE       | NRT      | Peach               | MM620      | A320-neo      | ME          | 初次獨旅與過年                 |
-| 16  | 2023 | 01/24 | HND       | TSA      | China Airlines      | CI223      | A333          | ME          | 初次獨旅與過年                 |
+| 15  | 2023 | 01/19 | TPE       | HND      | Peach               | MM620      | A320-neo      | ME          | 初次獨旅與過年                 |
+| 16  | 2023 | 01/24 | NRT       | TSA      | China Airlines      | CI223      | A333          | ME          | 初次獨旅與過年                 |
 | 17  | 2024 | 02/13 | TPE       | NRT      | Starlux             | JX800      | A350-900      | Ray         | 初次自己過年 feat傑胖與浩正    |
 | 18  | 2024 | 02/19 | NRT       | TPE      | Starlux             | JX801      | A350-900      | Ray         | 初次自己過年 feat傑胖與浩正    |
 | 19  | 2024 | 04/13 | TPE       | BKK      | EVA                 | BR75       | B777-300      | Ray         | 初次泰國潑水節 feat昌s         |
@@ -71,9 +72,12 @@
 | 31  | 2025 | 04/16 | DMK       | TPE      | Thai Airways        | TG636      | A320          | Ray         | 泰國吃吃喝喝 feat啾嘗試蘑菇    |
 | 32  | 2025 | 04/28 | TPE       | KUL      | Starlux             | JX725      | A321-neo      | ME          | 任性大馬遊                     |
 | 33  | 2025 | 05/04 | KUL       | TPE      | Malaysia Airlines   | MH366      | B737-800      | ME          | 任性大馬遊                     |
-| 34  | 2026 | 02/16 | TSA       | HND      | ANA                 | NH854      | 787-800       | Family      | 恕娘過年新潟草津               |
-| 35  | 2026 | 02/23 | HND       | TSA      | EVA                 | BR191      | 787-10        | Family      | 恕娘過年新潟草津               |
-| 36  | 2026 | 09/27 | TPE       | NRT      | Thai Lion           | SL394      | 787-800       | Ray         | 十年一刻                       |
+| 34  | 2026 | 02/16 | TSA       | HND      | ANA                 | NH854      | B787-800      | Family      | 恕娘過年新潟草津               |
+| 35  | 2026 | 02/23 | HND       | TSA      | EVA                 | BR191      | B787-10       | Family      | 恕娘過年新潟草津               |
+| 36  | 2026 | 09/27 | TPE       | NRT      | Thai Lion           | SL394      | B787-800      | Ray         | 十年一刻                       |
+| 37  | 2026 | 09/27 | HND       | KIX      | JAL                 | JL229      | B737-800      | Ray         | 十年一刻                       |
+| 38  | 2026 | 09/27 | TPE       | OKA      | Tiger               | IT232      | A320          | Ray         | 沖繩快閃                       |
+| 39  | 2026 | 09/27 | OKA       | TPE      | Tiger               | IT231      | A320          | Ray         | 沖繩快閃                       |
 
 ---
 
@@ -81,10 +85,10 @@
 
 ### 日本 (8 城市)
 - **東京** (成田NRT/羽田HND): 7次
-- **大阪** (關西KIX): 1次
+- **大阪** (關西KIX): 2次
 - **名古屋** (中部NGO): 2次
 - **福岡** (FUK): 2次
-- **沖繩** (那霸OKA): 1次
+- **沖繩** (那霸OKA): 2次
 - **札幌** (新千歲CTS): 1次
 - **仙台** (SDJ): 1次
 - **新潟**: 1次(預定)
@@ -99,18 +103,20 @@
 ---
 
 ## 🛫 航空公司體驗統計
-- **Starlux 星宇**: 4次 ⭐
+- **Starlux 星宇**: 6次 ⭐
 - **EVA 長榮**: 4次
-- **China Airlines 華航**: 3次
+- **China Airlines 華航**: 4次
 - **Scoot 酷航**: 3次
-- **JAL 日航**: 2次
+- **JAL 日航**: 3次
 - **Cathay Pacific 國泰**: 2次
 - **ANA 全日空**: 2次
 - **Thai Lion 獅航**: 2次
-- **Vanilla Air 香草**: 1次
+- **Vanilla Air 香草**: 2次
+- **Tiger 台灣虎航**: 2次
+- **JAA**: 2次
 - **Peach 樂桃**: 1次
 - **AirAsia 亞航**: 1次
-- **Thai Airways 泰航**: 1次
+- **Thai Airlines 泰航**: 1次
 - **Malaysia Airlines 馬航**: 1次
 
 ---
@@ -121,5 +127,6 @@
   - **Family**: 家庭旅行
   - **Ray**: 個人或與朋友同行
   - **ME**: 獨自旅行
+
 
 [Back](./README.md)
