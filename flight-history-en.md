@@ -77,7 +77,7 @@
 | 36  | 2026 | 09/27 | TPE       | NRT      | Thai Lion           | SL394      | B787-800      | Ray         | A Decade Moment                    |
 | 37  | 2026 | 09/27 | HND       | KIX      | JAL                 | JL229      | B737-800      | Ray         | A Decade Moment                    |
 | 38  | 2026 | 01/08 | TPE       | OKA      | Tiger               | IT232      | A320          | Ray         | Okinawa Quick Flash                |
-| 39  | 2026 | 001/11 | OKA       | TPE      | Tiger               | IT231      | A320          | Ray         | Okinawa Quick Flash                |
+| 39  | 2026 | 01/11 | OKA       | TPE      | Tiger               | IT231      | A320          | Ray         | Okinawa Quick Flash                |
 
 ---
 
@@ -142,5 +142,6 @@
 
 
 [Back](./README.md)
+
 
 
