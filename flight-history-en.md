@@ -30,8 +30,8 @@
 | 16  | 2025 | 04/10    | 04/16    | TPE<br>DMK | DMK<br>TPE | Thai Lion<br>Thai Airways        | SL395<br>TG636   | B737-900<br>A320     | Ray         | Thailand Food Trip feat. Mushroom  |
 | 17  | 2025 | 04/28    | 05/04    | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines     | JX725<br>MH366   | A321-neo<br>B737-800 | ME          | Spontaneous Malaysia Trip          |
 | 18  | 2026 | 02/16    | 02/23    | TSA<br>HND | HND<br>TSA | ANA<br>EVA                       | NH854<br>BR191   | B787-800<br>B787-10  | Family      | CNY Niigata Kusatsu Trip           |
-| 19* | 2026 | 09/27    | -        | TPE<br>HND | NRT<br>KIX | Thai Lion<br>JAL                 | SL394<br>JL229   | B787-800<br>B737-800 | Ray         | A Decade Moment                    |
-| 20  | 2026 | 09/27    | 09/27    | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger                   | IT232<br>IT231   | A320<br>A320         | Ray         | Okinawa Quick Flash                |
+| 19* | 2026 | 01/08    | -        | TPE<br>HND | NRT<br>KIX | Thai Lion<br>JAL                 | SL394<br>JL229   | B787-800<br>B737-800 | Ray         | A Decade Moment                    |
+| 20  | 2026 | 01/11    | 09/27    | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger                   | IT232<br>IT231   | A320<br>A320         | Ray         | Okinawa Quick Flash                |
 
 ---
 
@@ -76,8 +76,8 @@
 | 35  | 2026 | 02/23 | HND       | TSA      | EVA                 | BR191      | B787-10       | Family      | CNY Niigata Kusatsu Trip           |
 | 36  | 2026 | 09/27 | TPE       | NRT      | Thai Lion           | SL394      | B787-800      | Ray         | A Decade Moment                    |
 | 37  | 2026 | 09/27 | HND       | KIX      | JAL                 | JL229      | B737-800      | Ray         | A Decade Moment                    |
-| 38  | 2026 | 09/27 | TPE       | OKA      | Tiger               | IT232      | A320          | Ray         | Okinawa Quick Flash                |
-| 39  | 2026 | 09/27 | OKA       | TPE      | Tiger               | IT231      | A320          | Ray         | Okinawa Quick Flash                |
+| 38  | 2026 | 01/08 | TPE       | OKA      | Tiger               | IT232      | A320          | Ray         | Okinawa Quick Flash                |
+| 39  | 2026 | 001/11 | OKA       | TPE      | Tiger               | IT231      | A320          | Ray         | Okinawa Quick Flash                |
 
 ---
 
@@ -142,3 +142,4 @@
 
 
 [Back](./README.md)
+
