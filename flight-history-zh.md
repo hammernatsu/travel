@@ -31,7 +31,7 @@
 | 17  | 2025 | 04/28    | 05/04    | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines     | JX725<br>MH366   | A321-neo<br>B737-800 | ME          | 任性大馬遊                 |
 | 18  | 2026 | 02/16    | 02/23    | TSA<br>HND | HND<br>TSA | ANA<br>EVA                       | NH854<br>BR191   | B787-800<br>B787-10  | Family      | 恕娘過年新潟草津           |
 | 19* | 2026 | 09/27    | -        | TPE<br>HND | NRT<br>KIX | Thai Lion<br>JAL                 | SL394<br>JL229   | B787-800<br>B737-800 | Ray         | 十年一刻                   |
-| 20  | 2026 | 09/27    | 09/27    | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger                   | IT232<br>IT231   | A320<br>A320         | Ray         | 沖繩快閃                   |
+| 20  | 2026 | 01/08    | 09/11    | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger                   | IT232<br>IT231   | A320<br>A320         | Ray         | 沖繩快閃                   |
 
 ---
 
@@ -76,8 +76,8 @@
 | 35  | 2026 | 02/23 | HND       | TSA      | EVA                 | BR191      | B787-10       | Family      | 恕娘過年新潟草津               |
 | 36  | 2026 | 09/27 | TPE       | NRT      | Thai Lion           | SL394      | B787-800      | Ray         | 十年一刻                       |
 | 37  | 2026 | 09/27 | HND       | KIX      | JAL                 | JL229      | B737-800      | Ray         | 十年一刻                       |
-| 38  | 2026 | 09/27 | TPE       | OKA      | Tiger               | IT232      | A320          | Ray         | 沖繩快閃                       |
-| 39  | 2026 | 09/27 | OKA       | TPE      | Tiger               | IT231      | A320          | Ray         | 沖繩快閃                       |
+| 38  | 2026 | 01/08 | TPE       | OKA      | Tiger               | IT232      | A320          | Ray         | 沖繩快閃                       |
+| 39  | 2026 | 01/11 | OKA       | TPE      | Tiger               | IT231      | A320          | Ray         | 沖繩快閃                       |
 
 ---
 
@@ -130,3 +130,4 @@
 
 
 [Back](./README.md)
+
