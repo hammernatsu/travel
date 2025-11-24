@@ -1,8 +1,8 @@
 # My Flight History
 
 ## 📊 Statistics
-- **Total Trips**: 19 trips
-- **Total Flights**: 36 flights
+- **Total Trips**: 20 trips
+- **Total Flights**: 39 flights
 - **Period**: 2001 - 2026
 - **Travel Types**: Family, Ray, ME
 
@@ -29,8 +29,9 @@
 | 15  | 2024 | 12/18    | 12/24    | TPE<br>NGO | NGO<br>TPE | JAL<br>JAL                       | JL8670<br>JL8671 | B737-800<br>B737-800 | Ray         | 8th Anniversary Hokuriku Trip      |
 | 16  | 2025 | 04/10    | 04/16    | TPE<br>DMK | DMK<br>TPE | Thai Lion<br>Thai Airways        | SL395<br>TG636   | B737-900<br>A320     | Ray         | Thailand Food Trip feat. Mushroom  |
 | 17  | 2025 | 04/28    | 05/04    | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines     | JX725<br>MH366   | A321-neo<br>B737-800 | ME          | Spontaneous Malaysia Trip          |
-| 18  | 2026 | 02/16    | 02/23    | TSA<br>HND | HND<br>TSA | ANA<br>EVA                       | NH854<br>BR191   | 787-800<br>787-10    | Family      | CNY Niigata Kusatsu Trip           |
-| 19* | 2026 | 09/27    | -        | TPE        | NRT        | Thai Lion                        | SL394            | 787-800              | Ray         | A Decade Moment                    |
+| 18  | 2026 | 02/16    | 02/23    | TSA<br>HND | HND<br>TSA | ANA<br>EVA                       | NH854<br>BR191   | B787-800<br>B787-10  | Family      | CNY Niigata Kusatsu Trip           |
+| 19* | 2026 | 09/27    | -        | TPE<br>HND | NRT<br>KIX | Thai Lion<br>JAL                 | SL394<br>JL229   | B787-800<br>B737-800 | Ray         | A Decade Moment                    |
+| 20  | 2026 | 09/27    | 09/27    | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger                   | IT232<br>IT231   | A320<br>A320         | Ray         | Okinawa Quick Flash                |
 
 ---
 
@@ -52,8 +53,8 @@
 | 12  | 2019 | 11/04 | NRT       | TPE      | Scoot               | TR899      | B787-8        | Family      | Crazy Tokyo Quick Trip             |
 | 13  | 2020 | 01/23 | TPE       | NGO      | China Airlines      | CI150      | A333          | Family      | CNY Nagoya Snow Driving            |
 | 14  | 2020 | 01/28 | NGO       | TPE      | China Airlines      | CI155      | A321-neo      | Family      | CNY Nagoya Snow Driving            |
-| 15  | 2023 | 01/19 | TPE       | NRT      | Peach               | MM620      | A320-neo      | ME          | First Solo Trip & CNY              |
-| 16  | 2023 | 01/24 | HND       | TSA      | China Airlines      | CI223      | A333          | ME          | First Solo Trip & CNY              |
+| 15  | 2023 | 01/19 | TPE       | HND      | Peach               | MM620      | A320-neo      | ME          | First Solo Trip & CNY              |
+| 16  | 2023 | 01/24 | NRT       | TSA      | China Airlines      | CI223      | A333          | ME          | First Solo Trip & CNY              |
 | 17  | 2024 | 02/13 | TPE       | NRT      | Starlux             | JX800      | A350-900      | Ray         | First CNY Trip feat. Jay & Hao     |
 | 18  | 2024 | 02/19 | NRT       | TPE      | Starlux             | JX801      | A350-900      | Ray         | First CNY Trip feat. Jay & Hao     |
 | 19  | 2024 | 04/13 | TPE       | BKK      | EVA                 | BR75       | B777-300      | Ray         | First Songkran feat. Chang         |
@@ -71,9 +72,12 @@
 | 31  | 2025 | 04/16 | DMK       | TPE      | Thai Airways        | TG636      | A320          | Ray         | Thailand Food Trip feat. Mushroom  |
 | 32  | 2025 | 04/28 | TPE       | KUL      | Starlux             | JX725      | A321-neo      | ME          | Spontaneous Malaysia Trip          |
 | 33  | 2025 | 05/04 | KUL       | TPE      | Malaysia Airlines   | MH366      | B737-800      | ME          | Spontaneous Malaysia Trip          |
-| 34  | 2026 | 02/16 | TSA       | HND      | ANA                 | NH854      | 787-800       | Family      | CNY Niigata Kusatsu Trip           |
-| 35  | 2026 | 02/23 | HND       | TSA      | EVA                 | BR191      | 787-10        | Family      | CNY Niigata Kusatsu Trip           |
-| 36  | 2026 | 09/27 | TPE       | NRT      | Thai Lion           | SL394      | 787-800       | Ray         | A Decade Moment                    |
+| 34  | 2026 | 02/16 | TSA       | HND      | ANA                 | NH854      | B787-800      | Family      | CNY Niigata Kusatsu Trip           |
+| 35  | 2026 | 02/23 | HND       | TSA      | EVA                 | BR191      | B787-10       | Family      | CNY Niigata Kusatsu Trip           |
+| 36  | 2026 | 09/27 | TPE       | NRT      | Thai Lion           | SL394      | B787-800      | Ray         | A Decade Moment                    |
+| 37  | 2026 | 09/27 | HND       | KIX      | JAL                 | JL229      | B737-800      | Ray         | A Decade Moment                    |
+| 38  | 2026 | 09/27 | TPE       | OKA      | Tiger               | IT232      | A320          | Ray         | Okinawa Quick Flash                |
+| 39  | 2026 | 09/27 | OKA       | TPE      | Tiger               | IT231      | A320          | Ray         | Okinawa Quick Flash                |
 
 ---
 
@@ -81,10 +85,10 @@
 
 ### Japan (8 Cities)
 - **Tokyo** (Narita NRT/Haneda HND): 7 times
-- **Osaka** (Kansai KIX): 1 time
+- **Osaka** (Kansai KIX): 2 times
 - **Nagoya** (Chubu NGO): 2 times
 - **Fukuoka** (FUK): 2 times
-- **Okinawa** (Naha OKA): 1 time
+- **Okinawa** (Naha OKA): 2 times
 - **Sapporo** (New Chitose CTS): 1 time
 - **Sendai** (SDJ): 1 time
 - **Niigata**: 1 time (scheduled)
@@ -99,15 +103,17 @@
 ---
 
 ## 🛫 Airlines Experience Statistics
-- **Starlux**: 4 times ⭐
+- **Starlux**: 6 times ⭐
 - **EVA Air**: 4 times
-- **China Airlines**: 3 times
+- **China Airlines**: 4 times
 - **Scoot**: 3 times
-- **Japan Airlines (JAL)**: 2 times
+- **Japan Airlines (JAL)**: 3 times
 - **Cathay Pacific**: 2 times
 - **All Nippon Airways (ANA)**: 2 times
 - **Thai Lion Air**: 2 times
-- **Vanilla Air**: 1 time
+- **Vanilla Air**: 2 times
+- **Tiger Airways**: 2 times
+- **JAA**: 2 times
 - **Peach**: 1 time
 - **AirAsia**: 1 time
 - **Thai Airways**: 1 time
@@ -133,5 +139,6 @@
   - SDJ: Sendai
   - KUL: Kuala Lumpur
   - HKG: Hong Kong
+
 
 [Back](./README.md)
