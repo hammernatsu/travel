@@ -47,19 +47,20 @@ Recorded my travels and flights
 
 ## ✈️ 航空公司紀錄 / Airline Records
 - ✈️ Starlux Airlines / 星宇航空  
-- ✈️ EVA Air / 長榮航空  
 - ✈️ China Airlines / 中華航空  
-- ✈️ Japan Airlines / 日本航空  
-- ✈️ All Nippon Airways / 全日空  
+- ✈️ EVA Air / 長榮航空  
+- ✈️ Japan Airlines (JAL) / 日本航空  
 - ✈️ Scoot / 酷航  
+- ✈️ All Nippon Airways (ANA) / 全日空  
+- ✈️ Thai Lion Air / 泰獅航空  
+- ✈️ Vanilla Air / 香草航空  
+- ✈️ Tiger Airways / 台灣虎航  
 - ✈️ Cathay Pacific / 國泰航空  
+- ✈️ JAA (Japan Asia Airways) / 日本亞細亞航空
+- ✈️ Peach / 樂桃航空  
 - ✈️ AirAsia / 亞洲航空
-- ✈️ Thai Lion Air / 獅子航空
 - ✈️ Thai Airways / 泰國航空
 - ✈️ Malaysia Airlines / 馬來西亞航空
-- ✈️ Peach / 樂桃航空
-- ✈️ Vanilla Air / 香草航空
-- ✈️ Tiger Airways / 台灣虎航
 
 ## 🔖 旅行類型說明 / Travel Type Description
 - **Family**: 家庭旅行 / Family trips
@@ -68,4 +69,4 @@ Recorded my travels and flights
 
 ---
 
-*最後更新 / Last Updated: 2024/11/24*
+*最後更新 / Last Updated: 2025/11/25*
