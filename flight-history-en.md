@@ -29,9 +29,9 @@
 | 15  | 2024/12/18 | 2024/12/24 | TPE<br>NGO | NGO<br>TPE | JAL<br>JAL | JL8670<br>JL8671 | B737-800<br>B737-800 | Ray | 8th Anniversary Hokuriku Trip |
 | 16  | 2025/04/10 | 2025/04/16 | TPE<br>DMK | DMK<br>TPE | Thai Lion<br>Thai Airways | SL395<br>TG636 | B737-900<br>A320 | Ray | Thailand Food Trip feat. Mushroom |
 | 17  | 2025/04/28 | 2025/05/04 | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines | JX725<br>MH366 | A321-neo<br>B737-800 | ME | Spontaneous Malaysia Trip |
-| 18  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | CNY Niigata Kusatsu Trip |
-| 19* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br> | Ray | A Decade Moment |
-| 20  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | Okinawa Quick Flash |
+| 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | Okinawa Quick Flash |
+| 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | CNY Niigata Kusatsu Trip |
+| 20* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br> | Ray | A Decade Moment |
 
 ---
 
@@ -72,12 +72,12 @@
 | 31  | 2025/04/16   | DMK       | TPE      | Thai Airways | TG636 | A320 | Ray | Thailand Food Trip feat. Mushroom |
 | 32  | 2025/04/28   | TPE       | KUL      | Starlux | JX725 | A321-neo | ME | Spontaneous Malaysia Trip |
 | 33  | 2025/05/04   | KUL       | TPE      | Malaysia Airlines | MH366 | B737-800 | ME | Spontaneous Malaysia Trip |
-| 34  | 2026/02/16   | TSA       | HND      | ANA | NH854 | B787-800 | Family | CNY Niigata Kusatsu Trip |
-| 35  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | CNY Niigata Kusatsu Trip |
-| 36  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
-| 37  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | A Decade Moment |
-| 38  | 2026/01/08   | TPE       | OKA      | Tiger | IT232 | A320 | Ray | Okinawa Quick Flash |
-| 39  | 2026/01/11   | OKA       | TPE       | Tiger | IT231 | A320 | Ray | Okinawa Quick Flash |
+| 34  | 2026/01/08   | TPE       | OKA      | Tiger | IT232 | A320 | Ray | Okinawa Quick Flash |
+| 35  | 2026/01/11   | OKA       | TPE       | Tiger | IT231 | A320 | Ray | Okinawa Quick Flash |
+| 36  | 2026/02/16   | TSA       | HND      | ANA | NH854 | B787-800 | Family | CNY Niigata Kusatsu Trip |
+| 37  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | CNY Niigata Kusatsu Trip |
+| 38  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
+| 39  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | A Decade Moment |
 | 40  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 |      | Ray | A Decade Moment |
 
 ---
