@@ -2,7 +2,7 @@
 
 ## 📊 Statistics
 - **Total Trips**: 20 trips
-- **Total Flights**: 39 flights
+- **Total Flights**: 40 flights
 - **Period**: 2001 - 2026
 - **Travel Types**: Family, Ray, ME
 
@@ -30,7 +30,7 @@
 | 16  | 2025/04/10 | 2025/04/16 | TPE<br>DMK | DMK<br>TPE | Thai Lion<br>Thai Airways | SL395<br>TG636 | B737-900<br>A320 | Ray | Thailand Food Trip feat. Mushroom |
 | 17  | 2025/04/28 | 2025/05/04 | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines | JX725<br>MH366 | A321-neo<br>B737-800 | ME | Spontaneous Malaysia Trip |
 | 18  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | CNY Niigata Kusatsu Trip |
-| 19* | 2026/09/27 | ----/--/-- | TPE<br>HND | NRT<br>KIX | Thai Lion<br>JAL | SL394<br>JL229 | B787-800<br>B737-800 | Ray | A Decade Moment |
+| 19* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br> | Ray | A Decade Moment |
 | 20  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | Okinawa Quick Flash |
 
 ---
@@ -77,13 +77,14 @@
 | 36  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
 | 37  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | A Decade Moment |
 | 38  | 2026/01/08   | TPE       | OKA      | Tiger | IT232 | A320 | Ray | Okinawa Quick Flash |
-| 39  | 2026/01/11   | OKA       | TPE      | Tiger | IT231 | A320 | Ray | Okinawa Quick Flash |
+| 39  | 2026/01/11   | OKA       | TPE       | Tiger | IT231 | A320 | Ray | Okinawa Quick Flash |
+| 40  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 |      | Ray | A Decade Moment |
 
 ---
 
 ## 🗺️ Destinations Statistics
 
-### Japan (8 Cities)
+### Japan (9 Cities)
 - **Tokyo** (Narita NRT/Haneda HND): 7 times (Trips)
 - **Osaka** (Kansai KIX): 2 times
 - **Nagoya** (Chubu NGO): 2 times
@@ -92,6 +93,7 @@
 - **Sapporo** (New Chitose CTS): 1 time
 - **Sendai** (SDJ): 1 time
 - **Niigata**: 1 time (scheduled)
+- **Okayama** (OKJ): 1 time (scheduled)
 
 ### Southeast Asia
 - **Thailand**: Bangkok (Suvarnabhumi BKK/Don Mueang DMK) - 2 times
@@ -103,15 +105,15 @@
 ---
 
 ## 🛫 Airlines Experience Statistics
-- **China Airlines**: 6 times
+- **China Airlines**: 7 times
 - **Starlux**: 6 times ⭐
 - **EVA Air**: 4 times
-- **Japan Airlines (JAL)**: 4 times
+- **Japan Airlines (JAL)**: 5 times
 - **Scoot**: 3 times
 - **All Nippon Airways (ANA)**: 2 times
 - **Thai Lion Air**: 2 times
 - **Vanilla Air**: 2 times
-- **Tiger Airways**: 2 times
+- **Tiger Airways**: 3 times
 - **JAA (Japan Asia Airways)**: 2 times
 - **Cathay Pacific**: 2 times
 - **Peach**: 1 time

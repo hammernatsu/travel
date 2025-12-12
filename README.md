@@ -16,7 +16,7 @@ Recorded my travels and flights
 | 項目 / Category | 數據 / Data |
 |-----------------|-------------|
 | **總旅程數 / Total Trips** | 20 趟 / 20 trips |
-| **總航班數 / Total Flights** | 39 個航班 / 39 flights |
+| **總航班數 / Total Flights** | 40 個航班 / 40 flights |
 | **記錄期間 / Period** | 2001 - 2026 |
 | **旅行類型 / Travel Types** | Family / Ray / ME |
 
@@ -32,6 +32,7 @@ Recorded my travels and flights
 - 札幌 Sapporo (CTS)
 - 沖繩 Okinawa (OKA)
 - 新潟 Niigata
+- 岡山 Okayama (OKJ)
 - 仙台 Sendai (SDJ)
 
 ### 🇹🇭 泰國 / Thailand
@@ -69,4 +70,4 @@ Recorded my travels and flights
 
 ---
 
-*最後更新 / Last Updated: 2025/11/25*
+*最後更新 / Last Updated: 2025/12/12*

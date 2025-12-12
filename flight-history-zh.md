@@ -2,7 +2,7 @@
 
 ## 📊 統計資訊
 - **總旅程數**: 20 趟
-- **總航班數**: 39 個航班
+- **總航班數**: 40 個航班
 - **記錄期間**: 2001 - 2026
 - **旅行類型**: Family, Ray, ME
 
@@ -30,7 +30,7 @@
 | 16  | 2025/04/10 | 2025/04/16 | TPE<br>DMK | DMK<br>TPE | Thai Lion<br>Thai Airways | SL395<br>TG636 | B737-900<br>A320 | Ray | 泰國吃吃喝喝 feat啾嘗試蘑菇 |
 | 17  | 2025/04/28 | 2025/05/04 | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines | JX725<br>MH366 | A321-neo<br>B737-800 | ME | 任性大馬遊 |
 | 18  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | 恕娘過年新潟草津 |
-| 19* | 2026/09/27 | ----/--/-- | TPE<br>HND | NRT<br>KIX | Thai Lion<br>JAL | SL394<br>JL229 | B787-800<br>B737-800 | Ray | 十年一刻 |
+| 19* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br> | Ray | 十年一刻 |
 | 20  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | 沖繩快閃 |
 
 ---
@@ -77,13 +77,14 @@
 | 36  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
 | 37  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | 十年一刻 |
 | 38  | 2026/01/08   | TPE       | OKA      | Tiger | IT232 | A320 | Ray | 沖繩快閃 |
-| 39  | 2026/01/11   | OKA       | TPE      | Tiger | IT231 | A320 | Ray | 沖繩快閃 |
+| 39  | 2026/01/11   | OKA       | TPE       | Tiger | IT231 | A320 | Ray | 沖繩快閃 |
+| 40  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 |      | Ray | 十年一刻 |
 
 ---
 
 ## 🗺️ 造訪城市統計
 
-### 日本 (8 城市)
+### 日本 (9 城市)
 * **東京** (成田NRT/羽田HND): 7次 (旅程數)
 * **大阪** (關西KIX): 2次
 * **名古屋** (中部NGO): 2次
@@ -92,6 +93,7 @@
 * **札幌** (新千歲CTS): 1次
 * **仙台** (SDJ): 1次
 * **新潟**: 1次(預定)
+* **岡山** (OKJ): 1次(預定)
 
 ### 東南亞
 * **泰國**: 曼谷 (素萬那普BKK/廊曼DMK) - 2次
@@ -104,14 +106,14 @@
 
 ## 🛫 航空公司體驗統計
 * **Starlux 星宇**: 6次
-* **China Airlines 華航**: 6次
+* **China Airlines 華航**: 7次
 * **EVA 長榮**: 4次
-* **JAL 日航**: 4次
+* **JAL 日航**: 5次
 * **Scoot 酷航**: 3次
 * **ANA 全日空**: 2次
 * **Thai Lion 獅航**: 2次
 * **Vanilla Air 香草**: 2次
-* **Tiger 台灣虎航**: 2次
+* **Tiger 台灣虎航**: 3次
 * **JAA**: 2次
 * **Cathay Pacific 國泰**: 2次
 * **Peach 樂桃**: 1次
