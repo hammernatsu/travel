@@ -1,8 +1,8 @@
 # My Flight History
 
 ## 📊 Statistics
-- **Total Trips**: 20 trips
-- **Total Flights**: 40 flights
+- **Total Trips**: 21 trips
+- **Total Flights**: 42 flights
 - **Period**: 2001 - 2026
 - **Travel Types**: Family, Ray, ME
 
@@ -31,7 +31,8 @@
 | 17  | 2025/04/28 | 2025/05/04 | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines | JX725<br>MH366 | A321-neo<br>B737-800 | ME | Spontaneous Malaysia Trip |
 | 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | Okinawa Quick Flash |
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | CNY Niigata Kusatsu Trip |
-| 20* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br> | Ray | A Decade Moment |
+| 20  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | First Time Korea |
+| 21* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br>A320 | Ray | A Decade Moment |
 
 ---
 
@@ -76,9 +77,11 @@
 | 35  | 2026/01/11   | OKA       | TPE       | Tiger | IT231 | A320 | Ray | Okinawa Quick Flash |
 | 36  | 2026/02/16   | TSA       | HND      | ANA | NH854 | B787-800 | Family | CNY Niigata Kusatsu Trip |
 | 37  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | CNY Niigata Kusatsu Trip |
-| 38  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
-| 39  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | A Decade Moment |
-| 40  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 |      | Ray | A Decade Moment |
+| 38  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | First Time Korea |
+| 39  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | First Time Korea |
+| 40  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
+| 41  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | A Decade Moment |
+| 42  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | A Decade Moment |
 
 ---
 
@@ -98,6 +101,9 @@
 ### Southeast Asia
 - **Thailand**: Bangkok (Suvarnabhumi BKK/Don Mueang DMK) - 2 times
 - **Malaysia**: Kuala Lumpur (KUL) - 2 times
+
+### South Korea (1 City)
+- **Seoul** (Incheon ICN): 1 time
 
 ### Others
 - **Hong Kong** (HKG): 1 time

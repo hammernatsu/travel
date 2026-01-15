@@ -15,8 +15,8 @@ Recorded my travels and flights
 
 | 項目 / Category | 數據 / Data |
 |-----------------|-------------|
-| **總旅程數 / Total Trips** | 20 趟 / 20 trips |
-| **總航班數 / Total Flights** | 40 個航班 / 40 flights |
+| **總旅程數 / Total Trips** | 21 趟 / 21 trips |
+| **總航班數 / Total Flights** | 42 個航班 / 42 flights |
 | **記錄期間 / Period** | 2001 - 2026 |
 | **旅行類型 / Travel Types** | Family / Ray / ME |
 
@@ -37,6 +37,9 @@ Recorded my travels and flights
 
 ### 🇹🇭 泰國 / Thailand
 - 曼谷 Bangkok (BKK, DMK)
+
+### 🇰🇷 韓國 / South Korea
+- 首爾 Seoul (ICN)
 
 ### 🇲🇾 馬來西亞 / Malaysia
 - 吉隆坡 Kuala Lumpur (KUL)

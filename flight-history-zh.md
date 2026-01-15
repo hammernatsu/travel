@@ -1,8 +1,8 @@
 # 我的飛行記錄
 
 ## 📊 統計資訊
-- **總旅程數**: 20 趟
-- **總航班數**: 40 個航班
+- **總旅程數**: 21 趟
+- **總航班數**: 42 個航班
 - **記錄期間**: 2001 - 2026
 - **旅行類型**: Family, Ray, ME
 
@@ -31,7 +31,8 @@
 | 17  | 2025/04/28 | 2025/05/04 | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines | JX725<br>MH366 | A321-neo<br>B737-800 | ME | 任性大馬遊 |
 | 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | 沖繩快閃 |
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | 恕娘過年新潟草津 |
-| 20* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br> | Ray | 十年一刻 |
+| 20  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
+| 21* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br>A320 | Ray | 十年一刻 |
 
 ---
 
@@ -76,9 +77,11 @@
 | 35  | 2026/01/11   | OKA       | TPE       | Tiger | IT231 | A320 | Ray | 沖繩快閃 |
 | 36  | 2026/02/16   | TSA       | HND      | ANA | NH854 | B787-800 | Family | 恕娘過年新潟草津 |
 | 37  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | 恕娘過年新潟草津 |
-| 38  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
-| 39  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | 十年一刻 |
-| 40  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 |      | Ray | 十年一刻 |
+| 38  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | 初次韓國 |
+| 39  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | 初次韓國 |
+| 40  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
+| 41  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | 十年一刻 |
+| 42  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
 
 ---
 
@@ -98,6 +101,9 @@
 ### 東南亞
 * **泰國**: 曼谷 (素萬那普BKK/廊曼DMK) - 2次
 * **馬來西亞**: 吉隆坡 (KUL) - 2次
+
+### 韓國 (1 城市)
+* **首爾** (仁川ICN): 1次
 
 ### 其他
 * **香港** (HKG): 1次
