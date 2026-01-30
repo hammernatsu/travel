@@ -1,0 +1,25 @@
+{
+  "name": "github.travel",
+  "version": "1.0.0",
+  "description": "**by Hammer**",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammernatsu/travel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hammernatsu/travel/issues"
+  },
+  "homepage": "https://github.com/hammernatsu/travel#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
