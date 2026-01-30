@@ -84,4 +84,10 @@ features:
 
 ---
 
-*最後更新 / Last Updated: 2025/12/12*
+## 📖 旅遊手札 / Travel Book
+- [2026.02 新潟草津 / Niigata Kusatsu](./travel_book/2026.02niigata.md)
+- [2026.01 沖繩快閃 / Okinawa Quick Flash](./travel_book/2026.01okinawa.md)
+
+---
+
+*最後更新 / Last Updated: 2026/01/30*
