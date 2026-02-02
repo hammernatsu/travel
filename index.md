@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: ✈️ 瀏覽飛行記錄
-      link: /flight-history-zh
+      link: /flight-history-zh.html
     - theme: alt
       text: 📖 閱讀最新遊記
-      link: /travel_book/2026.02niigata
+      link: /travel_book/2026.02niigata.html
 
 features:
   - title: 飛行統計
@@ -89,8 +89,8 @@ features:
 ---
 
 ## 📖 旅遊手札 / Travel Book
-- [2026.02 新潟草津 / Niigata Kusatsu](./travel_book/2026.02niigata.md)
-- [2026.01 沖繩快閃 / Okinawa Quick Flash](./travel_book/2026.01okinawa.md)
+- [2026.02 新潟草津 / Niigata Kusatsu](./travel_book/2026.02niigata.html)
+- [2026.01 沖繩快閃 / Okinawa Quick Flash](./travel_book/2026.01okinawa.html)
 
 ---
 
