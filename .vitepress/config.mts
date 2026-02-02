@@ -12,26 +12,26 @@ export default defineConfig({
       {
         text: '飛行記錄',
         items: [
-          { text: '中文版', link: '/flight-history-zh' },
-          { text: 'English', link: '/flight-history-en' }
+          { text: '中文版', link: '/flight-history-zh.html' },
+          { text: 'English', link: '/flight-history-en.html' }
         ]
       },
-      { text: '旅遊手札', link: '/travel_book/2026.02niigata' }
+      { text: '旅遊手札', link: '/travel_book/2026.02niigata.html' }
     ],
 
     sidebar: [
       {
         text: '飛行記錄',
         items: [
-          { text: '中文版', link: '/flight-history-zh' },
-          { text: 'English Version', link: '/flight-history-en' }
+          { text: '中文版', link: '/flight-history-zh.html' },
+          { text: 'English Version', link: '/flight-history-en.html' }
         ]
       },
       {
         text: '旅遊手札',
         items: [
-          { text: '2026.02 新潟草津', link: '/travel_book/2026.02niigata' },
-          { text: '2026.01 沖繩快閃', link: '/travel_book/2026.01okinawa' }
+          { text: '2026.02 新潟草津', link: '/travel_book/2026.02niigata.html' },
+          { text: '2026.01 沖繩快閃', link: '/travel_book/2026.01okinawa.html' }
         ]
       }
     ]
