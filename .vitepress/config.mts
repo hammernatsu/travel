@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/travel/',
   title: "Hammer's Travel Log",
   description: "飛行與旅遊記錄",
   themeConfig: {
