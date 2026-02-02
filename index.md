@@ -5,6 +5,9 @@ hero:
   name: "Hammer's Travel"
   text: "飛行與旅遊記錄"
   tagline: 探索世界，記錄每一個起飛與降落的瞬間。
+  image:
+    src: https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80
+    alt: Travel
   actions:
     - theme: brand
       text: ✈️ 瀏覽飛行記錄
