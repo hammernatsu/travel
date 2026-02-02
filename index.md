@@ -1,5 +1,6 @@
 ---
 layout: home
+sidebar: true
 
 hero:
   name: "Hammer's Travel"
