@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
+    "docs:build": "vitepress build && copy CNAME .vitepress/dist/CNAME",
     "docs:preview": "vitepress preview"
   },
   "repository": {
