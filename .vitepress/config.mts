@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '首頁', link: '/' },
+      { text: '首頁', link: '/index.html' },
       {
         text: '飛行記錄',
         items: [
