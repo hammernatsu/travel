@@ -44,8 +44,10 @@ jobs:
       - name: Build with VitePress
         run: npx vitepress build
 
-      - name: Copy CNAME
-        run: cp CNAME .vitepress/dist/CNAME
+      - name: Post-build fixes
+        run: |
+          cp CNAME .vitepress/dist/CNAME
+          touch .vitepress/dist/.nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
