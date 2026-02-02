@@ -11,7 +11,7 @@ hero:
       link: /flight-history-zh
     - theme: alt
       text: 📖 閱讀最新遊記
-      link: /travel_book/2026.02okinawa
+      link: /travel_book/2026.01okinawa
 
 features:
   - title: 飛行統計
