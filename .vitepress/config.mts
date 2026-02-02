@@ -9,7 +9,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首頁', link: '/' },
-      { text: '飛行記錄', link: '/flight-history-zh' },
+      {
+        text: '飛行記錄',
+        items: [
+          { text: '中文版', link: '/flight-history-zh' },
+          { text: 'English', link: '/flight-history-en' }
+        ]
+      },
       { text: '旅遊手札', link: '/travel_book/2026.02niigata' }
     ],
 
