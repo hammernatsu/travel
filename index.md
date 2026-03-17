@@ -88,6 +88,12 @@ features:
 
 ---
 
+## ✈️ 飛行記錄 / Flight History
+- [詳細飛行記錄 (中文版)](./flight-history-zh.html)
+- [Detailed Flight History (English Version)](./flight-history-en.html)
+
+---
+
 ## 📖 旅遊手札 / Travel Book
 - [2026.02 新潟草津 / Niigata Kusatsu](./travel_book/2026.02niigata.html)
 - [2026.01 沖繩快閃 / Okinawa Quick Flash](./travel_book/2026.01okinawa.html)
