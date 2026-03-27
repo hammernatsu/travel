@@ -2,7 +2,7 @@
 
 ## 📊 Statistics
 - **Total Trips**: 21 trips
-- **Total Flights**: 42 flights
+- **Total Flights**: 41 flights
 - **Period**: 2001 - 2026
 - **Travel Types**: Family, Ray, ME
 
@@ -32,7 +32,7 @@
 | 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | Okinawa Quick Flash |
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | CNY Niigata Kusatsu Trip |
 | 20  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | First Time Korea |
-| 21* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br>A320 | Ray | A Decade Moment |
+| 21* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | A Decade Moment |
 
 ---
 
@@ -79,9 +79,8 @@
 | 37  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | CNY Niigata Kusatsu Trip |
 | 38  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | First Time Korea |
 | 39  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | First Time Korea |
-| 40  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
-| 41  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | A Decade Moment |
-| 42  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | A Decade Moment |
+| 40  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
+| 41  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | A Decade Moment |
 
 ---
 
@@ -89,7 +88,7 @@
 
 ### Japan (9 Cities)
 - **Tokyo** (Narita NRT/Haneda HND): 7 times (Trips)
-- **Osaka** (Kansai KIX): 2 times
+- **Osaka** (Kansai KIX): 1 time
 - **Nagoya** (Chubu NGO): 2 times
 - **Fukuoka** (FUK): 2 times
 - **Okinawa** (Naha OKA): 2 times
@@ -114,7 +113,7 @@
 - **China Airlines**: 7 times
 - **Starlux**: 6 times ⭐
 - **EVA Air**: 4 times
-- **Japan Airlines (JAL)**: 5 times
+- **Japan Airlines (JAL)**: 4 times
 - **Scoot**: 3 times
 - **All Nippon Airways (ANA)**: 2 times
 - **Thai Lion Air**: 2 times

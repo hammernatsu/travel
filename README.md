@@ -16,7 +16,7 @@ Recorded my travels and flights
 | 項目 / Category | 數據 / Data |
 |-----------------|-------------|
 | **總旅程數 / Total Trips** | 21 趟 / 21 trips |
-| **總航班數 / Total Flights** | 42 個航班 / 42 flights |
+| **總航班數 / Total Flights** | 41 個航班 / 41 flights |
 | **記錄期間 / Period** | 2001 - 2026 |
 | **旅行類型 / Travel Types** | Family / Ray / ME |
 
@@ -73,4 +73,4 @@ Recorded my travels and flights
 
 ---
 
-*最後更新 / Last Updated: 2025/12/12*
+*最後更新 / Last Updated: 2026/03/28*

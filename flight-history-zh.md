@@ -2,7 +2,7 @@
 
 ## 📊 統計資訊
 - **總旅程數**: 21 趟
-- **總航班數**: 42 個航班
+- **總航班數**: 41 個航班
 - **記錄期間**: 2001 - 2026
 - **旅行類型**: Family, Ray, ME
 
@@ -32,7 +32,7 @@
 | 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | 沖繩快閃 |
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | 恕娘過年新潟草津 |
 | 20  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
-| 21* | 2026/09/27 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>KIX<br>TPE | Thai Lion<br>JAL<br>Tiger | SL394<br>JL229<br>IT715 | B787-800<br>B737-800<br>A320 | Ray | 十年一刻 |
+| 21* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | 十年一刻 |
 
 ---
 
@@ -79,9 +79,8 @@
 | 37  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | 恕娘過年新潟草津 |
 | 38  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | 初次韓國 |
 | 39  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | 初次韓國 |
-| 40  | 2026/09/27   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
-| 41  | 2026/09/27   | HND       | KIX      | JAL | JL229 | B737-800 | Ray | 十年一刻 |
-| 42  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
+| 40  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
+| 41  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
 
 ---
 
@@ -89,7 +88,7 @@
 
 ### 日本 (9 城市)
 * **東京** (成田NRT/羽田HND): 7次 (旅程數)
-* **大阪** (關西KIX): 2次
+* **大阪** (關西KIX): 1次
 * **名古屋** (中部NGO): 2次
 * **福岡** (FUK): 2次
 * **沖繩** (那霸OKA): 2次
@@ -114,7 +113,7 @@
 * **Starlux 星宇**: 6次
 * **China Airlines 華航**: 7次
 * **EVA 長榮**: 4次
-* **JAL 日航**: 5次
+* **JAL 日航**: 4次
 * **Scoot 酷航**: 3次
 * **ANA 全日空**: 2次
 * **Thai Lion 獅航**: 2次
