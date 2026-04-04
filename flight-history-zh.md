@@ -1,9 +1,9 @@
 # 我的飛行記錄
 
 ## 📊 統計資訊
-- **總旅程數**: 21 趟
-- **總航班數**: 41 個航班
-- **記錄期間**: 2001 - 2026
+- **總旅程數**: 22 趟
+- **總航班數**: 43 個航班
+- **記錄期間**: 2001 - 2027
 - **旅行類型**: Family, Ray, ME
 
 ---
@@ -33,6 +33,7 @@
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | 恕娘過年新潟草津 |
 | 20  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
 | 21* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | 十年一刻 |
+| 22  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | Ray | 過年獨旅 |
 
 ---
 
@@ -81,14 +82,16 @@
 | 39  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | 初次韓國 |
 | 40  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
 | 41  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
+| 42  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | Ray | 過年獨旅 |
+| 43  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | Ray | 過年獨旅 |
 
 ---
 
 ## 🗺️ 造訪城市統計
 
 ### 日本 (9 城市)
-* **東京** (成田NRT/羽田HND): 7次 (旅程數)
-* **大阪** (關西KIX): 1次
+* **東京** (成田NRT/羽田HND): 8次 (旅程數)
+* **大阪** (關西KIX): 2次
 * **名古屋** (中部NGO): 2次
 * **福岡** (FUK): 2次
 * **沖繩** (那霸OKA): 2次
@@ -123,6 +126,8 @@
 * **Cathay Pacific 國泰**: 2次
 * **Peach 樂桃**: 1次
 * **AirAsia 亞航**: 1次
+* **AirAsia X 亞航長程**: 1次
+* **Jetstar Japan 捷星日本**: 1次
 * **Thai Airways 泰航**: 1次
 * **Malaysia Airlines 馬航**: 1次
 

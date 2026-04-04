@@ -1,9 +1,9 @@
 # My Flight History
 
 ## 📊 Statistics
-- **Total Trips**: 21 trips
-- **Total Flights**: 41 flights
-- **Period**: 2001 - 2026
+- **Total Trips**: 22 trips
+- **Total Flights**: 43 flights
+- **Period**: 2001 - 2027
 - **Travel Types**: Family, Ray, ME
 
 ---
@@ -33,6 +33,7 @@
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | CNY Niigata Kusatsu Trip |
 | 20  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | First Time Korea |
 | 21* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | A Decade Moment |
+| 22  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | Ray | Solo CNY Trip |
 
 ---
 
@@ -81,14 +82,16 @@
 | 39  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | First Time Korea |
 | 40  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
 | 41  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | A Decade Moment |
+| 42  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | Ray | Solo CNY Trip |
+| 43  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | Ray | Solo CNY Trip |
 
 ---
 
 ## 🗺️ Destinations Statistics
 
 ### Japan (9 Cities)
-- **Tokyo** (Narita NRT/Haneda HND): 7 times (Trips)
-- **Osaka** (Kansai KIX): 1 time
+- **Tokyo** (Narita NRT/Haneda HND): 8 times (Trips)
+- **Osaka** (Kansai KIX): 2 times
 - **Nagoya** (Chubu NGO): 2 times
 - **Fukuoka** (FUK): 2 times
 - **Okinawa** (Naha OKA): 2 times
@@ -123,6 +126,8 @@
 - **Cathay Pacific**: 2 times
 - **Peach**: 1 time
 - **AirAsia**: 1 time
+- **AirAsia X**: 1 time
+- **Jetstar Japan**: 1 time
 - **Thai Airways**: 1 time
 - **Malaysia Airlines**: 1 time
 

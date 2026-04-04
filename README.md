@@ -15,9 +15,9 @@ Recorded my travels and flights
 
 | 項目 / Category | 數據 / Data |
 |-----------------|-------------|
-| **總旅程數 / Total Trips** | 21 趟 / 21 trips |
-| **總航班數 / Total Flights** | 41 個航班 / 41 flights |
-| **記錄期間 / Period** | 2001 - 2026 |
+| **總旅程數 / Total Trips** | 22 趟 / 22 trips |
+| **總航班數 / Total Flights** | 43 個航班 / 43 flights |
+| **記錄期間 / Period** | 2001 - 2027 |
 | **旅行類型 / Travel Types** | Family / Ray / ME |
 
 ---
@@ -63,6 +63,8 @@ Recorded my travels and flights
 - ✈️ JAA (Japan Asia Airways) / 日本亞細亞航空
 - ✈️ Peach / 樂桃航空  
 - ✈️ AirAsia / 亞洲航空
+- ✈️ AirAsia X / 亞洲航空長程  
+- ✈️ Jetstar Japan / 捷星日本航空  
 - ✈️ Thai Airways / 泰國航空
 - ✈️ Malaysia Airlines / 馬來西亞航空
 
@@ -73,4 +75,4 @@ Recorded my travels and flights
 
 ---
 
-*最後更新 / Last Updated: 2026/03/28*
+*最後更新 / Last Updated: 2026/04/04*
