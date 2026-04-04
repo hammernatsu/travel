@@ -33,7 +33,7 @@
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | 恕娘過年新潟草津 |
 | 20  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
 | 21* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | 十年一刻 |
-| 22  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | Ray | 過年獨旅 |
+| 22  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | 過年獨旅 |
 
 ---
 
@@ -82,8 +82,8 @@
 | 39  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | 初次韓國 |
 | 40  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
 | 41  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
-| 42  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | Ray | 過年獨旅 |
-| 43  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | Ray | 過年獨旅 |
+| 42  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | 過年獨旅 |
+| 43  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | 過年獨旅 |
 
 ---
 
