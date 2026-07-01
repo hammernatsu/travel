@@ -1,14 +1,14 @@
 # 我的飛行記錄
 
 ## 📊 統計資訊
-- **總旅程數**: 22 趟
-- **總航班數**: 43 個航班
+- **總旅程數**: 24 趟
+- **總航班/船班數**: 47 段
 - **記錄期間**: 2001 - 2027
 - **旅行類型**: Family, Ray, ME
 
 ---
 
-## ✈️ 航班明細表 (往返合併版)
+## ✈️ 航班/船班明細表 (往返合併版)
 
 | No. | Dep Date | Arr Date | Departure  | Arrivals   | Airlines                         | Flight No.       | Aircraft Type        | Travel Type | Title |
 |-----|----------|----------|------------|------------|----------------------------------|------------------|----------------------|-------------|----------------------------|
@@ -31,13 +31,15 @@
 | 17  | 2025/04/28 | 2025/05/04 | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines | JX725<br>MH366 | A321-neo<br>B737-800 | ME | 任性大馬遊 |
 | 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | 沖繩快閃 |
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | 恕娘過年新潟草津 |
-| 20  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
-| 21* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | 十年一刻 |
-| 22  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | 過年獨旅 |
+| 20  | 2026/06/04 | 2026/06/07 | 基隆港<br>石垣港 | 石垣港<br>基隆港 | 八重山丸<br>八重山丸 | 船班<br>船班 | 標準房B<br>標準房B | Ray | 石垣島船旅 |
+| 21  | 2026/06/28 | 2026/06/29 | TPE<br>OKA | OKA<br>TPE | Tigerair Taiwan<br>Thai Vietjet Air | IT230<br>VZ569 | 未定<br>未定 | Ray | 沖繩 |
+| 22  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
+| 23* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | 十年一刻 |
+| 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | 過年獨旅 |
 
 ---
 
-## ✈️ 航班明細表 (單程分開版)
+## ✈️ 航班/船班明細表 (單程分開版)
 
 | No. | Date         | Departure | Arrivals | Airlines | Flight No. | Aircraft Type | Travel Type | Title |
 |-----|--------------|-----------|----------|---------------------|------------|---------------|-------------|--------------------------------|
@@ -78,23 +80,28 @@
 | 35  | 2026/01/11   | OKA       | TPE       | Tiger | IT231 | A320 | Ray | 沖繩快閃 |
 | 36  | 2026/02/16   | TSA       | HND      | ANA | NH854 | B787-800 | Family | 恕娘過年新潟草津 |
 | 37  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | 恕娘過年新潟草津 |
-| 38  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | 初次韓國 |
-| 39  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | 初次韓國 |
-| 40  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
-| 41  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
-| 42  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | 過年獨旅 |
-| 43  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | 過年獨旅 |
+| 38  | 2026/06/04 23:30 | 基隆港 | 石垣港 | 八重山丸 | 船班 | 標準房B | Ray | 石垣島船旅 |
+| 39  | 2026/06/07 21:00 | 石垣港 | 基隆港 | 八重山丸 | 船班 | 標準房B | Ray | 石垣島船旅 |
+| 40  | 2026/06/28 06:50 | TPE | OKA | Tigerair Taiwan | IT230 | 未定 | Ray | 沖繩 |
+| 41  | 2026/06/29 18:20 | OKA | TPE | Thai Vietjet Air | VZ569 | 未定 | Ray | 沖繩 |
+| 42  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | 初次韓國 |
+| 43  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | 初次韓國 |
+| 44  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
+| 45  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
+| 46  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | 過年獨旅 |
+| 47  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | 過年獨旅 |
 
 ---
 
 ## 🗺️ 造訪城市統計
 
-### 日本 (9 城市)
+### 日本 (10 城市)
 * **東京** (成田NRT/羽田HND): 8次 (旅程數)
 * **大阪** (關西KIX): 2次
 * **名古屋** (中部NGO): 2次
 * **福岡** (FUK): 2次
-* **沖繩** (那霸OKA): 2次
+* **沖繩** (那霸OKA): 3次
+* **石垣島** (ISG): 1次(預定)
 * **札幌** (新千歲CTS): 1次
 * **仙台** (SDJ): 1次
 * **新潟**: 1次(預定)
@@ -112,7 +119,7 @@
 
 ---
 
-## 🛫 航空公司體驗統計
+## 🛫 航空/船公司體驗統計
 * **Starlux 星宇**: 6次
 * **China Airlines 華航**: 7次
 * **EVA 長榮**: 4次
@@ -121,7 +128,7 @@
 * **ANA 全日空**: 2次
 * **Thai Lion 獅航**: 2次
 * **Vanilla Air 香草**: 2次
-* **Tiger 台灣虎航**: 3次
+* **Tiger 台灣虎航**: 6次
 * **JAA**: 2次
 * **Cathay Pacific 國泰**: 2次
 * **Peach 樂桃**: 1次
@@ -130,11 +137,14 @@
 * **Jetstar Japan 捷星日本**: 1次
 * **Thai Airways 泰航**: 1次
 * **Malaysia Airlines 馬航**: 1次
+* **Thai Vietjet Air 泰越捷航空**: 1次
+* **八重山丸**: 2次
 
 ---
 
 ## 📝 備註
 * \* 標記表示特殊航班(單程或國內線轉機)
+* 石垣島為搭船紀錄，不列入純航班統計時請扣除 2 段船班
 * Travel Type 說明:
     * **Family**: 家庭旅行
     * **Ray**: 個人或與朋友同行

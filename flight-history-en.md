@@ -1,14 +1,14 @@
 # My Flight History
 
 ## 📊 Statistics
-- **Total Trips**: 22 trips
-- **Total Flights**: 43 flights
+- **Total Trips**: 24 trips
+- **Total Flights/Ferry Segments**: 47 segments
 - **Period**: 2001 - 2027
 - **Travel Types**: Family, Ray, ME
 
 ---
 
-## ✈️ Flight Details (Round-trip Combined)
+## ✈️ Flight/Ferry Details (Round-trip Combined)
 
 | No. | Dep Date | Arr Date | Departure  | Arrivals   | Airlines                         | Flight No.       | Aircraft Type        | Travel Type | Title |
 |-----|----------|----------|------------|------------|----------------------------------|------------------|----------------------|-------------|-------------------------------------|
@@ -31,13 +31,15 @@
 | 17  | 2025/04/28 | 2025/05/04 | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines | JX725<br>MH366 | A321-neo<br>B737-800 | ME | Spontaneous Malaysia Trip |
 | 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | Okinawa Quick Flash |
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | CNY Niigata Kusatsu Trip |
-| 20  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | First Time Korea |
-| 21* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | A Decade Moment |
-| 22  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | Solo CNY Trip |
+| 20  | 2026/06/04 | 2026/06/07 | Keelung Port<br>Ishigaki Port | Ishigaki Port<br>Keelung Port | Yaeyama Maru<br>Yaeyama Maru | Ferry<br>Ferry | Standard Room B<br>Standard Room B | Ray | Ishigaki Ferry Trip |
+| 21  | 2026/06/28 | 2026/06/29 | TPE<br>OKA | OKA<br>TPE | Tigerair Taiwan<br>Thai Vietjet Air | IT230<br>VZ569 | TBD<br>TBD | Ray | Okinawa |
+| 22  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | First Time Korea |
+| 23* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | A Decade Moment |
+| 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | Solo CNY Trip |
 
 ---
 
-## ✈️ Flight Details (One-way Separated)
+## ✈️ Flight/Ferry Details (One-way Separated)
 
 | No. | Date         | Departure | Arrivals | Airlines | Flight No. | Aircraft Type | Travel Type | Title |
 |-----|--------------|-----------|----------|---------------------|------------|---------------|-------------|-------------------------------------|
@@ -78,23 +80,28 @@
 | 35  | 2026/01/11   | OKA       | TPE       | Tiger | IT231 | A320 | Ray | Okinawa Quick Flash |
 | 36  | 2026/02/16   | TSA       | HND      | ANA | NH854 | B787-800 | Family | CNY Niigata Kusatsu Trip |
 | 37  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | CNY Niigata Kusatsu Trip |
-| 38  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | First Time Korea |
-| 39  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | First Time Korea |
-| 40  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
-| 41  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | A Decade Moment |
-| 42  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | Solo CNY Trip |
-| 43  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | Solo CNY Trip |
+| 38  | 2026/06/04 23:30 | Keelung Port | Ishigaki Port | Yaeyama Maru | Ferry | Standard Room B | Ray | Ishigaki Ferry Trip |
+| 39  | 2026/06/07 21:00 | Ishigaki Port | Keelung Port | Yaeyama Maru | Ferry | Standard Room B | Ray | Ishigaki Ferry Trip |
+| 40  | 2026/06/28 06:50 | TPE | OKA | Tigerair Taiwan | IT230 | TBD | Ray | Okinawa |
+| 41  | 2026/06/29 18:20 | OKA | TPE | Thai Vietjet Air | VZ569 | TBD | Ray | Okinawa |
+| 42  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | First Time Korea |
+| 43  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | First Time Korea |
+| 44  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
+| 45  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | A Decade Moment |
+| 46  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | Solo CNY Trip |
+| 47  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | Solo CNY Trip |
 
 ---
 
 ## 🗺️ Destinations Statistics
 
-### Japan (9 Cities)
+### Japan (10 Cities)
 - **Tokyo** (Narita NRT/Haneda HND): 8 times (Trips)
 - **Osaka** (Kansai KIX): 2 times
 - **Nagoya** (Chubu NGO): 2 times
 - **Fukuoka** (FUK): 2 times
-- **Okinawa** (Naha OKA): 2 times
+- **Okinawa** (Naha OKA): 3 times
+- **Ishigaki** (ISG): 1 time (scheduled)
 - **Sapporo** (New Chitose CTS): 1 time
 - **Sendai** (SDJ): 1 time
 - **Niigata**: 1 time (scheduled)
@@ -112,7 +119,7 @@
 
 ---
 
-## 🛫 Airlines Experience Statistics
+## 🛫 Airline/Ferry Operator Experience Statistics
 - **China Airlines**: 7 times
 - **Starlux**: 6 times ⭐
 - **EVA Air**: 4 times
@@ -121,7 +128,7 @@
 - **All Nippon Airways (ANA)**: 2 times
 - **Thai Lion Air**: 2 times
 - **Vanilla Air**: 2 times
-- **Tiger Airways**: 3 times
+- **Tiger Airways**: 6 times
 - **JAA (Japan Asia Airways)**: 2 times
 - **Cathay Pacific**: 2 times
 - **Peach**: 1 time
@@ -130,11 +137,14 @@
 - **Jetstar Japan**: 1 time
 - **Thai Airways**: 1 time
 - **Malaysia Airlines**: 1 time
+- **Thai Vietjet Air**: 1 time
+- **Yaeyama Maru**: 2 times
 
 ---
 
 ## 📝 Notes
 - \* indicates special flights (one-way or domestic connecting flights)
+- Ishigaki is a ferry record; subtract 2 ferry segments for flight-only statistics
 - Travel Type Descriptions:
     * **Family**: Family trips
     * **Ray**: Personal or trips with friends

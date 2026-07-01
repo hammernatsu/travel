@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: 飛行統計
-    details: 21 趟旅程，42 個航班，跨越日本、泰國、韓國等多個國家。
+    details: 24 趟旅程，47 段航班/船班，跨越日本、泰國、韓國等多個國家。
   - title: 詳細記錄
     details: 包含航空公司、機型、航班號碼與詳細日期的完整資料庫。
   - title: 旅遊手札
@@ -30,9 +30,9 @@ features:
 
 | 項目 / Category | 數據 / Data |
 |-----------------|-------------|
-| **總旅程數 / Total Trips** | 21 趟 / 21 trips |
-| **總航班數 / Total Flights** | 42 個航班 / 42 flights |
-| **記錄期間 / Period** | 2001 - 2026 |
+| **總旅程數 / Total Trips** | 24 趟 / 24 trips |
+| **總航班/船班數 / Total Flight/Ferry Segments** | 47 段 / 47 segments |
+| **記錄期間 / Period** | 2001 - 2027 |
 | **旅行類型 / Travel Types** | Family / Ray / ME |
 
 ---
@@ -46,6 +46,7 @@ features:
 - 名古屋 Nagoya (NGO)
 - 札幌 Sapporo (CTS)
 - 沖繩 Okinawa (OKA)
+- 石垣島 Ishigaki (ISG)
 - 新潟 Niigata
 - 岡山 Okayama (OKJ)
 - 仙台 Sendai (SDJ)
@@ -64,7 +65,7 @@ features:
 
 ---
 
-## ✈️ 航空公司紀錄 / Airline Records
+## ✈️ 航空/船公司紀錄 / Airline & Ferry Operator Records
 - ✈️ Starlux Airlines / 星宇航空  
 - ✈️ China Airlines / 中華航空  
 - ✈️ EVA Air / 長榮航空  
@@ -80,6 +81,8 @@ features:
 - ✈️ AirAsia / 亞洲航空
 - ✈️ Thai Airways / 泰國航空
 - ✈️ Malaysia Airlines / 馬來西亞航空
+- ✈️ Thai Vietjet Air / 泰越捷航空
+- ⛴️ Yaeyama Maru / 八重山丸
 
 ## 🔖 旅行類型說明 / Travel Type Description
 - **Family**: 家庭旅行 / Family trips
@@ -100,4 +103,4 @@ features:
 
 ---
 
-*最後更新 / Last Updated: 2026/01/30*
+*最後更新 / Last Updated: 2026/07/01*
