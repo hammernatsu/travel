@@ -16,7 +16,7 @@ export default defineConfig({
           { text: 'English', link: '/flight-history-en.html' }
         ]
       },
-      { text: '旅遊手札', link: '/travel_book/2026.06okinawa.html' }
+      { text: '旅遊手札', link: '/travel_book/index.html' }
     ],
 
     sidebar: [
@@ -30,6 +30,7 @@ export default defineConfig({
       {
         text: '旅遊手札',
         items: [
+          { text: '旅遊手札總覽', link: '/travel_book/index.html' },
           { text: '2026.06 沖繩快閃', link: '/travel_book/2026.06okinawa.html' },
           { text: '2026.06 石垣島船旅', link: '/travel_book/2026.06ishigaki.html' },
           { text: '2026.02 新潟草津', link: '/travel_book/2026.02niigata.html' },
