@@ -15,7 +15,7 @@ hero:
       link: /flight-history-zh.html
     - theme: alt
       text: 📖 閱讀最新遊記
-      link: /travel_book/2026.02niigata.html
+      link: /travel_book/2026.06okinawa.html
 
 features:
   - title: 飛行統計
@@ -98,6 +98,8 @@ features:
 ---
 
 ## 📖 旅遊手札 / Travel Book
+- [2026.06 沖繩快閃 / Okinawa Quick Flash](./travel_book/2026.06okinawa.html)
+- [2026.06 石垣島船旅 / Ishigaki Ferry Trip](./travel_book/2026.06ishigaki.html)
 - [2026.02 新潟草津 / Niigata Kusatsu](./travel_book/2026.02niigata.html)
 - [2026.01 沖繩快閃 / Okinawa Quick Flash](./travel_book/2026.01okinawa.html)
 
