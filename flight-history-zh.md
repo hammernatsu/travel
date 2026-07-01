@@ -32,7 +32,7 @@
 | 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | 沖繩快閃 |
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | 恕娘過年新潟草津 |
 | 20  | 2026/06/04 | 2026/06/07 | 基隆港<br>石垣港 | 石垣港<br>基隆港 | 八重山丸<br>八重山丸 | 船班<br>船班 | 標準房B<br>標準房B | Ray | 石垣島船旅 |
-| 21  | 2026/06/28 | 2026/06/29 | TPE<br>OKA | OKA<br>TPE | Tigerair Taiwan<br>Thai Vietjet Air | IT230<br>VZ569 | 未定<br>未定 | Ray | 沖繩 |
+| 21  | 2026/06/28 | 2026/06/29 | TPE<br>OKA | OKA<br>TPE | Tigerair Taiwan<br>Thai Vietjet Air | IT230<br>VZ569 | A320<br>A321 | Ray | 沖繩 |
 | 22  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
 | 23* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | 十年一刻 |
 | 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | 過年獨旅 |
@@ -82,8 +82,8 @@
 | 37  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | 恕娘過年新潟草津 |
 | 38  | 2026/06/04 23:30 | 基隆港 | 石垣港 | 八重山丸 | 船班 | 標準房B | Ray | 石垣島船旅 |
 | 39  | 2026/06/07 21:00 | 石垣港 | 基隆港 | 八重山丸 | 船班 | 標準房B | Ray | 石垣島船旅 |
-| 40  | 2026/06/28 06:50 | TPE | OKA | Tigerair Taiwan | IT230 | 未定 | Ray | 沖繩 |
-| 41  | 2026/06/29 18:20 | OKA | TPE | Thai Vietjet Air | VZ569 | 未定 | Ray | 沖繩 |
+| 40  | 2026/06/28 06:50 | TPE | OKA | Tigerair Taiwan | IT230 | A320 | Ray | 沖繩 |
+| 41  | 2026/06/29 18:20 | OKA | TPE | Thai Vietjet Air | VZ569 | A321 | Ray | 沖繩 |
 | 42  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | 初次韓國 |
 | 43  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | 初次韓國 |
 | 44  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |

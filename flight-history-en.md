@@ -32,7 +32,7 @@
 | 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | Okinawa Quick Flash |
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | CNY Niigata Kusatsu Trip |
 | 20  | 2026/06/04 | 2026/06/07 | Keelung Port<br>Ishigaki Port | Ishigaki Port<br>Keelung Port | Yaeyama Maru<br>Yaeyama Maru | Ferry<br>Ferry | Standard Room B<br>Standard Room B | Ray | Ishigaki Ferry Trip |
-| 21  | 2026/06/28 | 2026/06/29 | TPE<br>OKA | OKA<br>TPE | Tigerair Taiwan<br>Thai Vietjet Air | IT230<br>VZ569 | TBD<br>TBD | Ray | Okinawa |
+| 21  | 2026/06/28 | 2026/06/29 | TPE<br>OKA | OKA<br>TPE | Tigerair Taiwan<br>Thai Vietjet Air | IT230<br>VZ569 | A320<br>A321 | Ray | Okinawa |
 | 22  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | First Time Korea |
 | 23* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | A Decade Moment |
 | 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | Solo CNY Trip |
@@ -82,8 +82,8 @@
 | 37  | 2026/02/23   | HND       | TSA      | EVA | BR191 | B787-10 | Family | CNY Niigata Kusatsu Trip |
 | 38  | 2026/06/04 23:30 | Keelung Port | Ishigaki Port | Yaeyama Maru | Ferry | Standard Room B | Ray | Ishigaki Ferry Trip |
 | 39  | 2026/06/07 21:00 | Ishigaki Port | Keelung Port | Yaeyama Maru | Ferry | Standard Room B | Ray | Ishigaki Ferry Trip |
-| 40  | 2026/06/28 06:50 | TPE | OKA | Tigerair Taiwan | IT230 | TBD | Ray | Okinawa |
-| 41  | 2026/06/29 18:20 | OKA | TPE | Thai Vietjet Air | VZ569 | TBD | Ray | Okinawa |
+| 40  | 2026/06/28 06:50 | TPE | OKA | Tigerair Taiwan | IT230 | A320 | Ray | Okinawa |
+| 41  | 2026/06/29 18:20 | OKA | TPE | Thai Vietjet Air | VZ569 | A321 | Ray | Okinawa |
 | 42  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | First Time Korea |
 | 43  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | First Time Korea |
 | 44  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
