@@ -31,7 +31,7 @@
 | 17  | 2025/04/28 | 2025/05/04 | TPE<br>KUL | KUL<br>TPE | Starlux<br>Malaysia Airlines | JX725<br>MH366 | A321-neo<br>B737-800 | ME | 任性大馬遊 |
 | 18  | 2026/01/08 | 2026/01/11 | TPE<br>OKA | OKA<br>TPE | Tiger<br>Tiger | IT232<br>IT231 | A320<br>A320 | Ray | 沖繩快閃 |
 | 19  | 2026/02/16 | 2026/02/23 | TSA<br>HND | HND<br>TSA | ANA<br>EVA | NH854<br>BR191 | B787-800<br>B787-10 | Family | 恕娘過年新潟草津 |
-| 20  | 2026/06/04 | 2026/06/07 | 基隆港<br>石垣港 | 石垣港<br>基隆港 | 八重山丸<br>八重山丸 | 船班<br>船班 | 標準房B<br>標準房B | Ray | 石垣島船旅 |
+| 20  | 2026/06/04 | 2026/06/07 | 基隆港<br>石垣港 | 石垣港<br>基隆港 | 八重山丸<br>八重山丸 | 船班<br>船班 | 標準房B<br>標準房B | Ray | 石垣島船旅 - 被放生 |
 | 21  | 2026/06/28 | 2026/06/29 | TPE<br>OKA | OKA<br>TPE | Tigerair Taiwan<br>Thai Vietjet Air | IT230<br>VZ569 | A320<br>A321 | Ray | 沖繩 |
 | 22  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
 | 23* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | 十年一刻 |
