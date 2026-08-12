@@ -26,22 +26,23 @@ features:
     details: 記錄旅行中的點點滴滴，從沖繩的海風到北海道的雪景。
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 0.75rem; margin: 1.5rem 0 2rem;">
-  <a href="https://my.flightradar24.com/hammerTW">
-    <img
-      src="https://banners-my.flightradar24.com/hammerTW.png"
-      alt="My Flightdiary.net profile"
-      style="display: block; max-width: 100%; height: auto;"
-    />
-  </a>
-  <a href="https://my.flightradar24.com/hammerTW">
-    <img
-      src="https://banners-my.flightradar24.com/hammerTW-future.png"
-      alt="My upcoming Flightdiary.net flights"
-      style="display: block; max-width: 100%; height: auto;"
-    />
-  </a>
-</div>
+<section style="margin: 1.5rem 0 2.5rem; padding: clamp(1.25rem, 3vw, 2rem); border: 1px solid var(--vp-c-divider); border-radius: 18px; background: linear-gradient(135deg, var(--vp-c-bg-soft), var(--vp-c-bg-alt)); box-shadow: 0 12px 32px rgba(0, 0, 0, 0.06);">
+  <div style="margin-bottom: 1.25rem; text-align: center;">
+    <p style="margin: 0; color: var(--vp-c-brand-1); font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">My Flightdiary</p>
+    <h2 style="margin: 0.3rem 0 0.45rem; border: 0; padding: 0; font-size: clamp(1.35rem, 3vw, 1.8rem);">✈️ 我的飛行足跡</h2>
+    <p style="margin: 0; color: var(--vp-c-text-2);">看看我飛過的航線，以及接下來準備出發的旅程。</p>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 1rem;">
+    <a href="https://my.flightradar24.com/hammerTW" target="_blank" rel="noopener noreferrer" style="display: block; padding: 1rem; border: 1px solid var(--vp-c-divider); border-radius: 14px; background: var(--vp-c-bg); color: inherit; text-decoration: none; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);">
+      <span style="display: block; margin-bottom: 0.7rem; font-weight: 700;">飛行紀錄 <small style="color: var(--vp-c-text-2); font-weight: 500;">Flight profile</small></span>
+      <img src="https://banners-my.flightradar24.com/hammerTW.png" alt="Hammer 的 Flightdiary 飛行紀錄" style="display: block; width: 100%; height: auto; border-radius: 8px;" />
+    </a>
+    <a href="https://my.flightradar24.com/hammerTW" target="_blank" rel="noopener noreferrer" style="display: block; padding: 1rem; border: 1px solid var(--vp-c-divider); border-radius: 14px; background: var(--vp-c-bg); color: inherit; text-decoration: none; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);">
+      <span style="display: block; margin-bottom: 0.7rem; font-weight: 700;">即將啟程 <small style="color: var(--vp-c-text-2); font-weight: 500;">Future flights</small></span>
+      <img src="https://banners-my.flightradar24.com/hammerTW-future.png" alt="Hammer 即將搭乘的航班" style="display: block; width: 100%; height: auto; border-radius: 8px;" />
+    </a>
+  </div>
+</section>
 
 # 📊 快速統計 / Quick Statistics
 
