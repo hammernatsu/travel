@@ -1,0 +1,48 @@
+
+Date,"Flight number",From,To,"Dep time","Arr time",Duration,Airline,Aircraft,Registration,"Seat number","Seat type","Flight class","Flight reason",Note,Dep_id,Arr_id,Airline_id,Aircraft_id
+2001-08-16,JLxxx,"Taipei / Taoyuan (TPE/RCTP)","Hong Kong / Hong Kong International (HKG/VHHH)",08:00:00,09:45:00,01:45:00," (/)"," ()",,,0,0,0,初次香港與中國,2996,1135,0,0
+2001-08-26,JLxxx,"Hong Kong / Hong Kong International (HKG/VHHH)","Taipei / Taoyuan (TPE/RCTP)",15:00:00,16:50:00,01:50:00," (/)"," ()",,,0,0,0,初次香港與中國,1135,2996,0,0
+2010-08-19,CI116,"Taipei / Taoyuan (TPE/RCTP)","Fukuoka / Fukuoka (FUK/RJFF)",16:25:00,19:35:00,02:10:00,"China Airlines (CI/CAL)","Airbus A330-300 (A333)",,,1,1,1,"第一次日本九州 feat姊",2996,938,165,31
+2010-08-23,CI117,"Fukuoka / Fukuoka (FUK/RJFF)","Taipei / Taoyuan (TPE/RCTP)",20:35:00,22:20:00,02:45:00,"China Airlines (CI/CAL)","Airbus A330-300 (A333)",,,1,1,1,"第一次日本九州 feat姊",938,2996,165,31
+2018-02-14,CX450,"Taipei / Taoyuan (TPE/RCTP)","Tokyo / Narita (NRT/RJAA)",13:00:00,17:15:00,03:15:00,"Cathay Pacific (CX/CPA)","Boeing 777-300ER (B77W)",,,1,1,1,第一次自由行,2996,2105,199,2023
+2018-02-20,CX451,"Tokyo / Narita (NRT/RJAA)","Taipei / Taoyuan (TPE/RCTP)",15:45:00,18:25:00,03:40:00,"Cathay Pacific (CX/CPA)","Boeing 777-300ER (B77W)",,,1,1,1,第一次自由行,2105,2996,199,2023
+2018-09-10,CI122,"Taipei / Taoyuan (TPE/RCTP)","Naha / Naha (OKA/ROAH)",16:50:00,19:20:00,01:30:00,"China Airlines (CI/CAL)","Airbus A330-300 (A333)",,,1,1,1,恕娘散心兼挑戰自駕,2996,2172,165,31
+2018-09-13,CI121,"Naha / Naha (OKA/ROAH)","Taipei / Taoyuan (TPE/RCTP)",11:55:00,12:30:00,01:35:00,"China Airlines (CI/CAL)","Airbus A330-300 (A333)",,,1,1,1,恕娘散心兼挑戰自駕,2172,2996,165,31
+2018-12-09,JW172,"Taipei / Taoyuan (TPE/RCTP)","Osaka / Kansai (KIX/RJBB)",07:15:00,10:55:00,02:40:00,"Vanilla Air (JW/VNL)","Airbus A320 (A320)",,,1,1,1,第一次出國蜜月,2996,3597,1852,27
+2018-12-16,JW179,"Osaka / Kansai (KIX/RJBB)","Taipei / Taoyuan (TPE/RCTP)",22:00:00,00:10:00,03:10:00,"Vanilla Air (JW/VNL)","Airbus A320 (A320)",,,1,1,1,第一次出國蜜月,3597,2996,1852,27
+2019-11-02,TR898,"Taipei / Taoyuan (TPE/RCTP)","Tokyo / Narita (NRT/RJAA)",06:40:00,10:45:00,03:05:00,"Scoot (TR/TGW)","Boeing 787-9 (B789)",,,1,1,1,瘋狂東京快閃,2996,2105,2695,2088
+2019-11-04,TR899,"Tokyo / Narita (NRT/RJAA)","Taipei / Taoyuan (TPE/RCTP)",11:45:00,14:35:00,03:50:00,"Scoot (TR/TGW)","Boeing 787-9 (B789)",,,1,1,1,瘋狂東京快閃,2105,2996,2695,2088
+2020-01-23,CI150,"Taipei / Taoyuan (TPE/RCTP)","Nagoya / Chubu Centrair International (NGO/RJGG)",17:15:00,20:50:00,02:35:00,"China Airlines (CI/CAL)","Airbus A330-300 (A333)",,,3,1,1,恕娘過年名古屋雪駕,2996,3589,165,31
+2020-01-28,CI155,"Nagoya / Chubu Centrair International (NGO/RJGG)","Taipei / Taoyuan (TPE/RCTP)",12:15:00,14:40:00,03:25:00,"China Airlines (CI/CAL)","Airbus A330-300 (A333)",,,1,1,1,恕娘過年名古屋雪駕,3589,2996,165,31
+2023-01-19,MM620,"Taipei / Taoyuan (TPE/RCTP)","Tokyo / Haneda (HND/RJTT)",02:20:00,06:15:00,02:55:00,"Peach (MM/APJ)","Airbus A320 (A320)",,,0,1,1,初次獨旅與過年,2996,1152,1564,27
+2023-01-24,CI223,"Tokyo / Narita (NRT/RJAA)","Taipei / Taipei Songshan Airport (TSA/RCSS)",14:35:00,17:40:00,04:05:00,"China Airlines (CI/CAL)","Airbus A330-300 (A333)",,,0,1,1,初次獨旅與過年,2105,3016,165,31
+2024-02-13,JX800,"Taipei / Taoyuan (TPE/RCTP)","Tokyo / Narita (NRT/RJAA)",08:30:00,12:35:00,03:05:00,"Starlux Airlines (JX/SJX)","Airbus A350-900 (A359)",,39K,1,1,1,"初次自己過年 feat傑胖與浩正",2996,2105,2781,2110
+2024-02-19,JX801,"Tokyo / Narita (NRT/RJAA)","Taipei / Taoyuan (TPE/RCTP)",13:55:00,16:45:00,03:50:00,"Starlux Airlines (JX/SJX)","Airbus A350-900 (A359)",,37J,1,1,1,"初次自己過年 feat傑胖與浩正",2105,2996,2781,2110
+2024-04-13,BR75,"Taipei / Taoyuan (TPE/RCTP)","Bangkok / Suvarnabhumi (BKK/VTBS)",07:50:00,10:50:00,04:00:00,"EVA Airways (BR/EVA)","Boeing 777-300ER (B77W)",,54K,1,1,1,"初次泰國潑水節 feat昌s",2996,331,281,2023
+2024-04-17,BR68,"Bangkok / Suvarnabhumi (BKK/VTBS)","Taipei / Taoyuan (TPE/RCTP)",16:45:00,21:30:00,03:45:00,"EVA Airways (BR/EVA)","Boeing 777-300ER (B77W)",,62A,1,1,1,"初次泰國潑水節 feat昌s",331,2996,281,2023
+2024-08-31,D7379,"Taipei / Taoyuan (TPE/RCTP)","Kuala Lumpur / Kuala Lumpur International (KUL/WMKK)",15:55:00,20:45:00,04:50:00,"AirAsia X (D7/XAX)","Airbus A330-300 (A333)",,38D,3,1,1,"初次KL遊 feat建",2996,1527,1128,31
+2024-09-06,JX726,"Kuala Lumpur / Kuala Lumpur International (KUL/WMKK)","Taipei / Taoyuan (TPE/RCTP)",17:10:00,21:55:00,04:45:00,"Starlux Airlines (JX/SJX)","Airbus A330-900neo (A339)",,16K,1,1,1,"初次KL遊 feat建",1527,2996,2781,2130
+2024-10-02,JX841,"Taipei / Taoyuan (TPE/RCTP)","Fukuoka / Fukuoka (FUK/RJFF)",10:00:00,13:15:00,02:15:00,"Starlux Airlines (JX/SJX)","Airbus A321neo (A21N)",,21A,1,1,1,恕娘臨時起意出國,2996,938,2781,2128
+2024-10-06,JX840,"Fukuoka / Fukuoka (FUK/RJFF)","Taipei / Taoyuan (TPE/RCTP)",14:10:00,15:45:00,02:35:00,"Starlux Airlines (JX/SJX)","Airbus A321neo (A21N)",,7A,1,1,1,恕娘臨時起意出國,938,2996,2781,2128
+2024-10-08,TR892,"Taipei / Taoyuan (TPE/RCTP)","Sapporo / New Chitose (CTS/RJCC)",11:10:00,15:55:00,03:45:00,"Scoot (TR/TGW)","Boeing 787-8 (B788)",,6A,1,1,1,"北海到東北long stay",2996,631,2695,2087
+2024-10-15,NH1224,"Sapporo / New Chitose (CTS/RJCC)","Sendai / Sendai (SDJ/RJSS)",10:25:00,11:35:00,01:10:00,"All Nippon Airways (NH/ANA)","Boeing 737-800 (B738)",,9J,1,1,1,初次日本國內線,631,2617,64,231
+2024-10-23,BR195,"Tokyo / Narita (NRT/RJAA)","Taipei / Taoyuan (TPE/RCTP)",20:40:00,23:35:00,03:55:00,"EVA Airways (BR/EVA)","Boeing 787-10 (B78X)",,29K,1,1,1,"北海到東北long stay",2105,2996,281,2138
+2024-12-18,JL8670,"Taipei / Taoyuan (TPE/RCTP)","Nagoya / Chubu Centrair International (NGO/RJGG)",10:00:00,13:40:00,02:40:00,"Japan Airlines (JL/JAL)","Boeing 737-800 (B738)",,46A,1,1,0,八年蜜月北陸合掌村,2996,3589,406,231
+2024-12-24,JL8671,"Nagoya / Chubu Centrair International (NGO/RJGG)","Taipei / Taoyuan (TPE/RCTP)",14:40:00,17:05:00,03:25:00,"Japan Airlines (JL/JAL)","Boeing 737-800 (B738)",,16K,1,1,1,八年蜜月北陸合掌村,3589,2996,406,231
+2025-04-10,SL395,"Taipei / Taoyuan (TPE/RCTP)","Bangkok / Don Mueang International (DMK/VTBD)",21:20:00,00:10:00,03:50:00,"Thai Lion Air (SL/TLM)","Boeing 737-800 (B738)",,12A,1,1,1,"泰國吃吃喝喝 feat啾嘗試蘑菇",2996,3565,2010,231
+2025-04-16,TG636,"Bangkok / Don Mueang International (DMK/VTBD)","Taipei / Taoyuan (TPE/RCTP)",17:40:00,22:30:00,03:50:00,"Thai Airways (TG/THA)","Airbus A320 (A320)",,10E,1,1,1,"泰國吃吃喝喝 feat啾嘗試蘑菇",3565,2996,767,27
+2025-04-28,JX725,"Taipei / Taoyuan (TPE/RCTP)","Kuala Lumpur / Kuala Lumpur International (KUL/WMKK)",11:00:00,15:50:00,04:50:00,"Starlux Airlines (JX/SJX)","Airbus A330-900neo (A339)",,30A,1,1,1,任性大馬遊,2996,1527,2781,2130
+2025-05-04,MH366,"Kuala Lumpur / Kuala Lumpur International (KUL/WMKK)","Taipei / Taoyuan (TPE/RCTP)",09:20:00,14:05:00,04:45:00,"Malaysia Airlines (MH/MAS)","Boeing 737-800 (B738)",,26A,1,1,1,任性大馬遊,1527,2996,507,231
+2026-01-08,IT232,"Taipei / Taoyuan (TPE/RCTP)","Naha / Naha (OKA/ROAH)",18:20:00,20:50:00,01:30:00,"Tigerair Taiwan (IT/TTW)","Airbus A320 (A320)",B-50008,17A,1,1,1,沖繩快閃,2996,2172,2053,27
+2026-01-11,IT231,"Naha / Naha (OKA/ROAH)","Taipei / Taoyuan (TPE/RCTP)",09:45:00,10:25:00,01:40:00,"Tigerair Taiwan (IT/TTW)","Airbus A320 (A320)",,19C,3,1,1,沖繩快閃,2172,2996,2053,27
+2026-02-16,NH854,"Taipei / Taipei Songshan Airport (TSA/RCSS)","Tokyo / Haneda (HND/RJTT)",16:50:00,20:45:00,02:55:00,"All Nippon Airways (NH/ANA)","Boeing 787-8 (B788)",,31A,1,1,1,恕娘過年新潟草津,3016,1152,64,2087
+2026-02-23,BR191,"Tokyo / Haneda (HND/RJTT)","Taipei / Taipei Songshan Airport (TSA/RCSS)",12:15:00,15:10:00,03:55:00,"EVA Airways (BR/EVA)","Boeing 787-10 (B78X)",,50K,1,1,1,恕娘過年新潟草津,1152,3016,281,2138
+2026-06-28,IT230,"Taipei / Taoyuan (TPE/RCTP)","Naha / Naha (OKA/ROAH)",06:50:00,09:20:00,01:30:00,"Tigerair Taiwan (IT/TTW)","Airbus A320 (A320)",B-50016,20C,3,0,1,沖繩,2996,2172,2053,27
+2026-06-29,VZ569,"Naha / Naha (OKA/ROAH)","Taipei / Taoyuan (TPE/RCTP)",18:20:00,19:00:00,01:40:00,"Thai Vietjet Air (VZ/TVJ)","Airbus A320 (A320)",,23B,3,1,1,沖繩,2172,2996,2438,27
+2026-08-27,IT602,"Taipei / Taoyuan (TPE/RCTP)","Seoul / Incheon (ICN/RKSI)",20:00:00,23:35:00,02:35:00,"Tigerair Taiwan (IT/TTW)","Airbus A320 (A320)",,,0,1,1,初次韓國,2996,3602,2053,27
+2026-08-31,IT603,"Seoul / Incheon (ICN/RKSI)","Taipei / Taoyuan (TPE/RCTP)",00:35:00,02:20:00,02:45:00,"Tigerair Taiwan (IT/TTW)","Airbus A320 (A320)",,,0,1,1,初次韓國,3602,2996,2053,27
+2026-09-25,SL394,"Taipei / Taoyuan (TPE/RCTP)","Tokyo / Narita (NRT/RJAA)",12:10:00,16:25:00,03:15:00,"Thai Lion Air (SL/TLM)","Boeing 737-900ER (B739)",,9F,1,1,1,十年一刻,2996,2105,2010,2069
+2026-10-04,IT715,"Okayama / Okayama (OKJ/RJOB)","Taipei / Taoyuan (TPE/RCTP)",15:55:00,18:00:00,03:05:00,"Tigerair Taiwan (IT/TTW)","Airbus A320 (A320)",,5A,1,1,1,十年一刻,2176,2996,2053,27
+2027-02-07,D7378,"Taipei / Taoyuan (TPE/RCTP)","Osaka / Kansai (KIX/RJBB)",14:50:00,18:35:00,02:45:00,"AirAsia X (D7/XAX)","Airbus A330-300 (A333)",,,0,1,1,過年獨旅,2996,3597,1128,31
+2027-02-14,GK11,"Tokyo / Narita (NRT/RJAA)","Taipei / Taoyuan (TPE/RCTP)",22:00:00,00:50:00,03:50:00,"Jetstar Japan (GK/JJP)","Airbus A321neo (A21N)",,6F,1,1,1,過年獨旅,2105,2996,1612,2128
+2026-09-27,JL233,"Tokyo / Haneda (HND/RJTT)","Okayama / Okayama (OKJ/RJOB)",10:20:00,11:35:00,01:15:00,"Japan Airlines (JL/JAL)","Boeing 737-800 (B738)",,16K,1,1,1,十年一刻,1152,2176,406,231
