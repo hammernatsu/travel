@@ -26,6 +26,23 @@ features:
     details: 記錄旅行中的點點滴滴，從沖繩的海風到北海道的雪景。
 ---
 
+<div style="display: flex; flex-direction: column; align-items: center; gap: 0.75rem; margin: 1.5rem 0 2rem;">
+  <a href="https://my.flightradar24.com/hammerTW">
+    <img
+      src="https://banners-my.flightradar24.com/hammerTW.png"
+      alt="My Flightdiary.net profile"
+      style="display: block; max-width: 100%; height: auto;"
+    />
+  </a>
+  <a href="https://my.flightradar24.com/hammerTW">
+    <img
+      src="https://banners-my.flightradar24.com/hammerTW-future.png"
+      alt="My upcoming Flightdiary.net flights"
+      style="display: block; max-width: 100%; height: auto;"
+    />
+  </a>
+</div>
+
 # 📊 快速統計 / Quick Statistics
 
 | 項目 / Category | 數據 / Data |
@@ -106,4 +123,4 @@ features:
 
 ---
 
-*最後更新 / Last Updated: 2026/07/01*
+*最後更新 / Last Updated: 2026/08/12*
