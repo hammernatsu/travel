@@ -1,0 +1,118 @@
+/* Give the flight-history pages enough room for their data-heavy tables. */
+.flight-history-page .VPDoc .content,
+.flight-history-page .VPDoc .content-container {
+  max-width: none;
+}
+
+.flight-history-page .vp-doc table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  overflow: visible;
+}
+
+.flight-history-page .vp-doc th,
+.flight-history-page .vp-doc td {
+  padding: 7px 8px;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  white-space: normal;
+  vertical-align: top;
+}
+
+.flight-history-page .vp-doc th {
+  font-size: 12px;
+}
+
+.flight-history-page .vp-doc td {
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+/* Compact columns; leave the flexible remainder for airline and trip titles. */
+.flight-history-page .vp-doc table:first-of-type th:nth-child(1) { width: 4%; }
+.flight-history-page .vp-doc table:first-of-type th:nth-child(2),
+.flight-history-page .vp-doc table:first-of-type th:nth-child(3) { width: 9%; }
+.flight-history-page .vp-doc table:first-of-type th:nth-child(4),
+.flight-history-page .vp-doc table:first-of-type th:nth-child(5) { width: 7%; }
+.flight-history-page .vp-doc table:first-of-type th:nth-child(7) { width: 8%; }
+.flight-history-page .vp-doc table:first-of-type th:nth-child(8) { width: 10%; }
+.flight-history-page .vp-doc table:first-of-type th:nth-child(9) { width: 7%; }
+
+.flight-history-page .vp-doc table:nth-of-type(2) th:nth-child(1) { width: 4%; }
+.flight-history-page .vp-doc table:nth-of-type(2) th:nth-child(2) { width: 12%; }
+.flight-history-page .vp-doc table:nth-of-type(2) th:nth-child(3),
+.flight-history-page .vp-doc table:nth-of-type(2) th:nth-child(4) { width: 8%; }
+.flight-history-page .vp-doc table:nth-of-type(2) th:nth-child(6) { width: 9%; }
+.flight-history-page .vp-doc table:nth-of-type(2) th:nth-child(7) { width: 11%; }
+.flight-history-page .vp-doc table:nth-of-type(2) th:nth-child(8) { width: 8%; }
+
+/* On narrow screens each flight becomes a readable card instead of a scroll area. */
+@media (max-width: 767px) {
+  .flight-history-page .VPDoc {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .flight-history-page .vp-doc table,
+  .flight-history-page .vp-doc tbody {
+    display: block;
+    width: 100%;
+  }
+
+  .flight-history-page .vp-doc thead {
+    display: none;
+  }
+
+  .flight-history-page .vp-doc tr {
+    display: block;
+    margin: 0 0 14px;
+    overflow: hidden;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 12px;
+    background: var(--vp-c-bg-soft);
+  }
+
+  .flight-history-page .vp-doc td {
+    display: grid;
+    grid-template-columns: minmax(7rem, 38%) 1fr;
+    gap: 10px;
+    align-items: start;
+    width: 100%;
+    padding: 8px 12px;
+    border: 0;
+    border-bottom: 1px solid var(--vp-c-divider);
+    background: transparent;
+  }
+
+  .flight-history-page .vp-doc td:last-child {
+    border-bottom: 0;
+  }
+
+  .flight-history-page .vp-doc td::before {
+    color: var(--vp-c-text-2);
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(1)::before { content: 'No.'; }
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(2)::before { content: 'Dep Date'; }
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(3)::before { content: 'Arr Date'; }
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(4)::before { content: 'Departure'; }
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(5)::before { content: 'Arrivals'; }
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(6)::before { content: 'Airlines'; }
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(7)::before { content: 'Flight No.'; }
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(8)::before { content: 'Aircraft Type'; }
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(9)::before { content: 'Travel Type'; }
+  .flight-history-page .vp-doc table:first-of-type td:nth-child(10)::before { content: 'Title'; }
+
+  .flight-history-page .vp-doc table:nth-of-type(2) td:nth-child(1)::before { content: 'No.'; }
+  .flight-history-page .vp-doc table:nth-of-type(2) td:nth-child(2)::before { content: 'Date'; }
+  .flight-history-page .vp-doc table:nth-of-type(2) td:nth-child(3)::before { content: 'Departure'; }
+  .flight-history-page .vp-doc table:nth-of-type(2) td:nth-child(4)::before { content: 'Arrivals'; }
+  .flight-history-page .vp-doc table:nth-of-type(2) td:nth-child(5)::before { content: 'Airlines'; }
+  .flight-history-page .vp-doc table:nth-of-type(2) td:nth-child(6)::before { content: 'Flight No.'; }
+  .flight-history-page .vp-doc table:nth-of-type(2) td:nth-child(7)::before { content: 'Aircraft Type'; }
+  .flight-history-page .vp-doc table:nth-of-type(2) td:nth-child(8)::before { content: 'Travel Type'; }
+  .flight-history-page .vp-doc table:nth-of-type(2) td:nth-child(9)::before { content: 'Title'; }
+}

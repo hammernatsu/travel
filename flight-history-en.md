@@ -1,3 +1,8 @@
+---
+aside: false
+pageClass: flight-history-page
+---
+
 # My Flight History
 
 ## 📊 Statistics

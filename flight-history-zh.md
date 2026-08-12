@@ -1,3 +1,8 @@
+---
+aside: false
+pageClass: flight-history-page
+---
+
 # 我的飛行記錄
 
 ## 📊 統計資訊
