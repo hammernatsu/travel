@@ -117,7 +117,8 @@ features:
 
 ## 📖 旅遊手札 / Travel Book
 - [旅遊手札總覽 / Travel Book Index](./travel_book/index.html)
-- [2026.09 東京・四國・瀨戶內海（尚未出發・行程計畫）](./travel_book/2026.09tokyo-shikoku.html)
+- [2026.09 東京・四國・瀨戶內海](./travel_book/2026.09tokyo-shikoku.html)
+- [2026.08 首爾初體驗 / Seoul](./travel_book/2026.08seoul.html)
 - [2026.06 沖繩快閃 / Okinawa Quick Flash](./travel_book/2026.06okinawa.html)
 - [2026.06 石垣島船旅 / Ishigaki Ferry Trip](./travel_book/2026.06ishigaki.html)
 - [2026.02 新潟草津 / Niigata Kusatsu](./travel_book/2026.02niigata.html)
