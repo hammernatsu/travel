@@ -6,8 +6,8 @@ pageClass: flight-history-page
 # My Flight History
 
 ## 📊 Statistics
-- **Total Trips**: 24 trips
-- **Total Flights/Ferry Segments**: 48 segments
+- **Total Trips**: 25 trips
+- **Total Flights/Ferry Segments**: 50 segments
 - **Period**: 2001 - 2027
 - **Travel Types**: Family, Ray, ME
 
@@ -41,6 +41,7 @@ pageClass: flight-history-page
 | 22  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | First Time Korea |
 | 23* | 2026/09/25 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>OKJ<br>TPE | Thai Lion<br>JAL (Japan Transocean Air)<br>Tiger | SL394<br>JL233<br>IT715 | B787-800<br>B737-800<br>A320 | Ray | A Decade Moment |
 | 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | Solo CNY Trip |
+| 25  | 2027/07/16 | 2027/07/20 | TPE<br>BKK | BKK<br>TPE | Thai Vietjet Air<br>Thai Vietjet Air | VZ567<br>VZ566 | | Ray | Bangkok |
 
 ---
 
@@ -96,6 +97,10 @@ pageClass: flight-history-page
 | 46  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | A Decade Moment |
 | 47  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | Solo CNY Trip |
 | 48  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | Solo CNY Trip |
+| 49  | 2027/07/16 15:25 | TPE | BKK | Thai Vietjet Air | VZ567 | | Ray | Bangkok |
+| 50  | 2027/07/20 01:55 | BKK | TPE | Thai Vietjet Air | VZ566 | | Ray | Bangkok |
+
+> Both Bangkok flights in July 2027 are confirmed; times are local to the departure airport.
 
 ---
 
@@ -114,7 +119,7 @@ pageClass: flight-history-page
 - **Okayama** (OKJ): 1 time (scheduled)
 
 ### Southeast Asia
-- **Thailand**: Bangkok (Suvarnabhumi BKK/Don Mueang DMK) - 2 times
+- **Thailand**: Bangkok (Suvarnabhumi BKK/Don Mueang DMK) - 3 times (including 1 scheduled trip)
 - **Malaysia**: Kuala Lumpur (KUL) - 2 times
 
 ### South Korea (1 City)
@@ -143,7 +148,7 @@ pageClass: flight-history-page
 - **Jetstar Japan**: 1 time
 - **Thai Airways**: 1 time
 - **Malaysia Airlines**: 1 time
-- **Thai Vietjet Air**: 1 time
+- **Thai Vietjet Air**: 3 times
 - **Yaeyama Maru**: 2 times
 
 ---

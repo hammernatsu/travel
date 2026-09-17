@@ -6,8 +6,8 @@ pageClass: flight-history-page
 # 我的飛行記錄
 
 ## 📊 統計資訊
-- **總旅程數**: 24 趟
-- **總航班/船班數**: 48 段
+- **總旅程數**: 25 趟
+- **總航班/船班數**: 50 段
 - **記錄期間**: 2001 - 2027
 - **旅行類型**: Family, Ray, ME
 
@@ -41,6 +41,7 @@ pageClass: flight-history-page
 | 22  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
 | 23* | 2026/09/25 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>OKJ<br>TPE | Thai Lion<br>JAL (Japan Transocean Air)<br>Tiger | SL394<br>JL233<br>IT715 | B787-800<br>B737-800<br>A320 | Ray | 十年一刻 |
 | 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | 過年獨旅 |
+| 25  | 2027/07/16 | 2027/07/20 | TPE<br>BKK | BKK<br>TPE | Thai Vietjet Air<br>Thai Vietjet Air | VZ567<br>VZ566 | | Ray | 曼谷 |
 
 ---
 
@@ -96,6 +97,9 @@ pageClass: flight-history-page
 | 46  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
 | 47  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | 過年獨旅 |
 | 48  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | 過年獨旅 |
+| 49  | 2027/07/16 15:25 | TPE | BKK | Thai Vietjet Air | VZ567 | | Ray | 曼谷 |
+| 50  | 2027/07/20 01:55 | BKK | TPE | Thai Vietjet Air | VZ566 | | Ray | 曼谷 |
+
 
 ---
 
@@ -114,7 +118,7 @@ pageClass: flight-history-page
 * **岡山** (OKJ): 1次(預定)
 
 ### 東南亞
-* **泰國**: 曼谷 (素萬那普BKK/廊曼DMK) - 2次
+* **泰國**: 曼谷 (素萬那普BKK/廊曼DMK) - 3次（含 1 次預定）
 * **馬來西亞**: 吉隆坡 (KUL) - 2次
 
 ### 韓國 (1 城市)
@@ -143,7 +147,7 @@ pageClass: flight-history-page
 * **Jetstar Japan 捷星日本**: 1次
 * **Thai Airways 泰航**: 1次
 * **Malaysia Airlines 馬航**: 1次
-* **Thai Vietjet Air 泰越捷航空**: 1次
+* **Thai Vietjet Air 泰越捷航空**: 3次
 * **八重山丸**: 2次
 
 ---
@@ -158,4 +162,3 @@ pageClass: flight-history-page
 
 
 [返回首頁](/index.html)
-
