@@ -7,7 +7,7 @@ pageClass: flight-history-page
 
 ## 📊 Statistics
 - **Total Trips**: 24 trips
-- **Total Flights/Ferry Segments**: 47 segments
+- **Total Flights/Ferry Segments**: 48 segments
 - **Period**: 2001 - 2027
 - **Travel Types**: Family, Ray, ME
 
@@ -39,7 +39,7 @@ pageClass: flight-history-page
 | 20  | 2026/06/04 | 2026/06/07 | Keelung Port<br>Ishigaki Port | Ishigaki Port<br>Keelung Port | Yaeyama Maru<br>Yaeyama Maru | Ferry<br>Ferry | Standard Room B<br>Standard Room B | Ray | Ishigaki Ferry Trip |
 | 21  | 2026/06/28 | 2026/06/29 | TPE<br>OKA | OKA<br>TPE | Tigerair Taiwan<br>Thai Vietjet Air | IT230<br>VZ569 | A320<br>A320 | Ray | Okinawa |
 | 22  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | First Time Korea |
-| 23* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | A Decade Moment |
+| 23* | 2026/09/25 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>OKJ<br>TPE | Thai Lion<br>JAL (Japan Transocean Air)<br>Tiger | SL394<br>JL233<br>IT715 | B787-800<br>Not provided<br>A320 | Ray | A Decade Moment |
 | 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | Solo CNY Trip |
 
 ---
@@ -92,9 +92,10 @@ pageClass: flight-history-page
 | 42  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | First Time Korea |
 | 43  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | First Time Korea |
 | 44  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | A Decade Moment |
-| 45  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | A Decade Moment |
-| 46  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | Solo CNY Trip |
-| 47  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | Solo CNY Trip |
+| 45  | 2026/09/27   | HND       | OKJ       | JAL (Japan Transocean Air) | JL233 | Not provided | Ray | A Decade Moment |
+| 46  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | A Decade Moment |
+| 47  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | Solo CNY Trip |
+| 48  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | Solo CNY Trip |
 
 ---
 
@@ -128,7 +129,7 @@ pageClass: flight-history-page
 - **China Airlines**: 7 times
 - **Starlux**: 6 times ⭐
 - **EVA Air**: 4 times
-- **Japan Airlines (JAL)**: 4 times
+- **Japan Airlines (JAL)**: 5 times (including 1 segment operated by Japan Transocean Air)
 - **Scoot**: 3 times
 - **All Nippon Airways (ANA)**: 2 times
 - **Thai Lion Air**: 2 times

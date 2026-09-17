@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: 飛行統計
-    details: 24 趟旅程，47 段航班/船班，跨越日本、泰國、韓國等多個國家。
+    details: 24 趟旅程，48 段航班/船班，跨越日本、泰國、韓國等多個國家。
   - title: 詳細記錄
     details: 包含航空公司、機型、航班號碼與詳細日期的完整資料庫。
   - title: 旅遊手札
@@ -49,7 +49,7 @@ features:
 | 項目 / Category | 數據 / Data |
 |-----------------|-------------|
 | **總旅程數 / Total Trips** | 24 趟 / 24 trips |
-| **總航班/船班數 / Total Flight/Ferry Segments** | 47 段 / 47 segments |
+| **總航班/船班數 / Total Flight/Ferry Segments** | 48 段 / 48 segments |
 | **記錄期間 / Period** | 2001 - 2027 |
 | **旅行類型 / Travel Types** | Family / Ray / ME |
 

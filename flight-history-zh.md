@@ -7,7 +7,7 @@ pageClass: flight-history-page
 
 ## 📊 統計資訊
 - **總旅程數**: 24 趟
-- **總航班/船班數**: 47 段
+- **總航班/船班數**: 48 段
 - **記錄期間**: 2001 - 2027
 - **旅行類型**: Family, Ray, ME
 
@@ -39,7 +39,7 @@ pageClass: flight-history-page
 | 20  | 2026/06/04 | 2026/06/07 | 基隆港<br>石垣港 | 石垣港<br>基隆港 | 八重山丸<br>八重山丸 | 船班<br>船班 | 標準房B<br>標準房B | Ray | 石垣島船旅 - 被放生 |
 | 21  | 2026/06/28 | 2026/06/29 | TPE<br>OKA | OKA<br>TPE | Tigerair Taiwan<br>Thai Vietjet Air | IT230<br>VZ569 | A320<br>A320 | Ray | 沖繩 |
 | 22  | 2026/08/27 | 2026/08/31 | TPE<br>ICN | ICN<br>TPE | Tiger<br>Tiger | IT602<br>IT603 | A320<br>A320 | Ray | 初次韓國 |
-| 23* | 2026/09/25 | 2026/10/04 | TPE<br>OKJ | NRT<br>TPE | Thai Lion<br>Tiger | SL394<br>IT715 | B787-800<br>A320 | Ray | 十年一刻 |
+| 23* | 2026/09/25 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>OKJ<br>TPE | Thai Lion<br>JAL (Japan Transocean Air)<br>Tiger | SL394<br>JL233<br>IT715 | B787-800<br>未提供<br>A320 | Ray | 十年一刻 |
 | 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | 過年獨旅 |
 
 ---
@@ -92,9 +92,10 @@ pageClass: flight-history-page
 | 42  | 2026/08/27   | TPE       | ICN       | Tiger | IT602 | A320         | Ray | 初次韓國 |
 | 43  | 2026/08/31   | ICN       | TPE       | Tiger | IT603 | A320         | Ray | 初次韓國 |
 | 44  | 2026/09/25   | TPE       | NRT      | Thai Lion | SL394 | B787-800 | Ray | 十年一刻 |
-| 45  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
-| 46  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | 過年獨旅 |
-| 47  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | 過年獨旅 |
+| 45  | 2026/09/27   | HND       | OKJ       | JAL (Japan Transocean Air) | JL233 | 未提供 | Ray | 十年一刻 |
+| 46  | 2026/10/04   | OKJ       | TPE       | Tiger | IT715 | A320 | Ray | 十年一刻 |
+| 47  | 2027/02/07   | TPE       | KIX       | AirAsia X | D7378 | A330 | ME | 過年獨旅 |
+| 48  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | 過年獨旅 |
 
 ---
 
@@ -128,7 +129,7 @@ pageClass: flight-history-page
 * **Starlux 星宇**: 6次
 * **China Airlines 華航**: 7次
 * **EVA 長榮**: 4次
-* **JAL 日航**: 4次
+* **JAL 日航**: 5次（含 1 段由 Japan Transocean Air 營運）
 * **Scoot 酷航**: 3次
 * **ANA 全日空**: 2次
 * **Thai Lion 獅航**: 2次
