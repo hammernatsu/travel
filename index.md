@@ -118,6 +118,8 @@ features:
 ## 📖 旅遊手札 / Travel Book
 - [旅遊手札總覽 / Travel Book Index](./travel_book/index.html)
 - [2026.09 東京・四國・瀨戶內海十日遊記](./travel_book/2026.09tokyo-shikoku.html)
+- [2024.10 北海道到東北十六日遊記](./travel_book/2024.10hokkaido-tohoku.html)
+- [2024.10 福岡・九州五日遊記](./travel_book/2024.10kyushu.html)
 - [2026.08 首爾初體驗 / Seoul](./travel_book/2026.08seoul.html)
 - [2026.06 沖繩快閃 / Okinawa Quick Flash](./travel_book/2026.06okinawa.html)
 - [2026.06 石垣島船旅 / Ishigaki Ferry Trip](./travel_book/2026.06ishigaki.html)
@@ -126,4 +128,4 @@ features:
 
 ---
 
-*最後更新 / Last Updated: 2026/10/05*
+*最後更新 / Last Updated: 2026/10/06*
