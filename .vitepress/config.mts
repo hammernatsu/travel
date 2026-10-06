@@ -1,4 +1,21 @@
 import { defineConfig } from 'vitepress'
+import { readFileSync, readdirSync } from 'node:fs'
+import { fileURLToPath } from 'node:url'
+
+const travelBookDirectory = fileURLToPath(new URL('../travel_book/', import.meta.url))
+
+const travelBookSidebarItems = readdirSync(travelBookDirectory)
+  .filter((fileName) => fileName.endsWith('.md') && fileName !== 'index.md')
+  .sort((left, right) => right.localeCompare(left, 'en'))
+  .map((fileName) => {
+    const source = readFileSync(`${travelBookDirectory}/${fileName}`, 'utf8')
+    const title = source.match(/^#\s+(.+)$/m)?.[1] ?? fileName.replace(/\.md$/, '')
+
+    return {
+      text: title,
+      link: `/travel_book/${fileName.replace(/\.md$/, '.html')}`
+    }
+  })
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -31,12 +48,7 @@ export default defineConfig({
         text: '旅遊手札',
         items: [
           { text: '旅遊手札總覽', link: '/travel_book/index.html' },
-          { text: '2026.09 東京・四國', link: '/travel_book/2026.09tokyo-shikoku.html' },
-          { text: '2026.08 首爾初體驗', link: '/travel_book/2026.08seoul.html' },
-          { text: '2026.06 沖繩快閃', link: '/travel_book/2026.06okinawa.html' },
-          { text: '2026.06 石垣島船旅', link: '/travel_book/2026.06ishigaki.html' },
-          { text: '2026.02 新潟草津', link: '/travel_book/2026.02niigata.html' },
-          { text: '2026.01 沖繩快閃', link: '/travel_book/2026.01okinawa.html' }
+          ...travelBookSidebarItems
         ]
       }
     ]
