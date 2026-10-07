@@ -104,22 +104,24 @@ pageClass: flight-history-page
 
 ---
 
-## 🗺️ Destinations Statistics
+## 🗺️ Flight Destination Statistics
+
+> Counted by trip; completed journeys through October 2026 are shown separately from scheduled 2027 travel.
 
 ### Japan (10 Cities)
-- **Tokyo** (Narita NRT/Haneda HND): 8 times (Trips)
-- **Osaka** (Kansai KIX): 2 times
+- **Tokyo** (Narita NRT/Haneda HND): 7 times (plus 1 scheduled trip)
+- **Osaka** (Kansai KIX): 1 time (plus 1 scheduled trip)
 - **Nagoya** (Chubu NGO): 2 times
 - **Fukuoka** (FUK): 2 times
 - **Okinawa** (Naha OKA): 3 times
-- **Ishigaki** (ISG): 1 time (scheduled)
+- **Ishigaki** (ISG): 1 time
 - **Sapporo** (New Chitose CTS): 1 time
 - **Sendai** (SDJ): 1 time
-- **Niigata**: 1 time (scheduled)
-- **Okayama** (OKJ): 1 time (scheduled)
+- **Niigata**: 1 time
+- **Okayama** (OKJ): 1 time
 
 ### Southeast Asia
-- **Thailand**: Bangkok (Suvarnabhumi BKK/Don Mueang DMK) - 3 times (including 1 scheduled trip)
+- **Thailand**: Bangkok (Suvarnabhumi BKK/Don Mueang DMK) - 2 times (plus 1 scheduled trip)
 - **Malaysia**: Kuala Lumpur (KUL) - 2 times
 
 ### South Korea (1 City)
