@@ -113,20 +113,6 @@ pageClass: flight-history-page
 
 ---
 
-## 🇹🇷 September 2027 Türkiye Itinerary {#turkiye-2027}
-
-Departure and arrival times are local. The Hong Kong to Kayseri row shows the overall schedule and duration for the connection via Istanbul.
-
-| Route | Departure | Arrival | Airline | Cabin / Booking Class | Duration |
-|---|---|---|---|---|---|
-| Taipei Taoyuan (TPE) → Hong Kong (HKG) | Sep 9, 16:40 | Sep 9, 18:30 | EVA Air (BR) | Economy (I) | 1 h 50 min |
-| Hong Kong (HKG) → Istanbul (IST) → Kayseri (ASR) | Sep 10, 10:55 | Sep 10, 23:05 | Turkish Airlines (TK) | Business (I) on both flights | 17 h 10 min |
-| Antalya (AYT) → Istanbul (IST) | Sep 16, 11:20 | Sep 16, 12:55 | Turkish Airlines (TK) | Business (I) | 1 h 35 min |
-| Istanbul (IST) → Guangzhou (CAN) | Sep 18, 15:50 | Sep 19, 07:00 | Turkish Airlines (TK) | Business (I) | 10 h 10 min |
-| Guangzhou (CAN) → Taipei Taoyuan (TPE) | Sep 19, 13:10 | Sep 19, 15:20 | EVA Air (BR) | Economy (I) | 2 h 10 min |
-
----
-
 ## 🗺️ Flight Destination Statistics
 
 > Counted by trip; completed journeys through October 2026 are shown separately from scheduled 2027 travel.
