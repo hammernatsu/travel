@@ -6,8 +6,8 @@ pageClass: flight-history-page
 # 我的飛行記錄
 
 ## 📊 統計資訊
-- **總旅程數**: 25 趟
-- **總航班/船班數**: 50 段
+- **總旅程數**: 27 趟
+- **總航班/船班數**: 57 段
 - **記錄期間**: 2001 - 2027
 - **旅行類型**: Family, Ray, ME
 
@@ -42,6 +42,8 @@ pageClass: flight-history-page
 | 23* | 2026/09/25 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>OKJ<br>TPE | Thai Lion<br>JAL (Japan Transocean Air)<br>Tiger | SL394<br>JL233<br>IT715 | B787-800<br>B737-800<br>A320 | Ray | 十年一刻 |
 | 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | 過年獨旅 |
 | 25  | 2027/07/16 | 2027/07/20 | TPE<br>BKK | BKK<br>TPE | Thai Vietjet Air<br>Thai Vietjet Air | VZ567<br>VZ566 | | Ray | 曼谷 |
+| 26* | 2027/08/23 20:55 | 2027/08/23 23:15 | KIX | TPE | AirAsia | AK177 | | | 大阪 |
+| 27* | 2027/09/09 | 2027/09/19 | TPE<br>HKG<br>IST<br>AYT<br>IST<br>CAN | HKG<br>IST<br>ASR<br>IST<br>CAN<br>TPE | EVA<br>Turkish Airlines<br>Turkish Airlines<br>Turkish Airlines<br>Turkish Airlines<br>EVA |  |  |  | [土耳其](#turkiye-2027) |
 
 ---
 
@@ -99,7 +101,28 @@ pageClass: flight-history-page
 | 48  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | 過年獨旅 |
 | 49  | 2027/07/16 15:25 | TPE | BKK | Thai Vietjet Air | VZ567 | | Ray | 曼谷 |
 | 50  | 2027/07/20 01:55 | BKK | TPE | Thai Vietjet Air | VZ566 | | Ray | 曼谷 |
+| 51  | 2027/08/23 20:55 | KIX | TPE | AirAsia | AK177 | | | 大阪 |
+| 52 | 2027/09/09 16:40 | TPE | HKG | EVA |  |  |  | [土耳其](#turkiye-2027) |
+| 53 | 2027/09/10 10:55 | HKG | IST | Turkish Airlines |  |  |  | [土耳其](#turkiye-2027) |
+| 54 | 2027/09/10 | IST | ASR | Turkish Airlines |  |  |  | [土耳其](#turkiye-2027) |
+| 55 | 2027/09/16 11:20 | AYT | IST | Turkish Airlines |  |  |  | [土耳其](#turkiye-2027) |
+| 56 | 2027/09/18 15:50 | IST | CAN | Turkish Airlines |  |  |  | [土耳其](#turkiye-2027) |
+| 57 | 2027/09/19 13:10 | CAN | TPE | EVA |  |  |  | [土耳其](#turkiye-2027) |
 
+
+---
+
+## 🇹🇷 2027 年 9 月土耳其預定行程 {#turkiye-2027}
+
+起降時間皆為當地時間。香港經伊斯坦堡轉機至開塞利的時間與飛行時長為該段轉機行程的整體資訊。
+
+| 航線 | 出發 | 抵達 | 航空公司 | 艙等／訂位艙等 | 飛行時長 |
+|---|---|---|---|---|---|
+| 台北桃園（TPE）→ 香港（HKG） | 09/09 16:40 | 09/09 18:30 | 長榮航空（BR） | 經濟艙（I） | 1 小時 50 分 |
+| 香港（HKG）→ 伊斯坦堡（IST）→ 開塞利（ASR） | 09/10 10:55 | 09/10 23:05 | 土耳其航空（TK） | 兩段皆為商務艙（I） | 17 小時 10 分 |
+| 安塔利亞（AYT）→ 伊斯坦堡（IST） | 09/16 11:20 | 09/16 12:55 | 土耳其航空（TK） | 商務艙（I） | 1 小時 35 分 |
+| 伊斯坦堡（IST）→ 廣州（CAN） | 09/18 15:50 | 09/19 07:00 | 土耳其航空（TK） | 商務艙（I） | 10 小時 10 分 |
+| 廣州（CAN）→ 台北桃園（TPE） | 09/19 13:10 | 09/19 15:20 | 長榮航空（BR） | 經濟艙（I） | 2 小時 10 分 |
 
 ---
 
@@ -109,7 +132,7 @@ pageClass: flight-history-page
 
 ### 日本 (10 城市)
 * **東京** (成田NRT/羽田HND): 7次（另有 1 次預定）
-* **大阪** (關西KIX): 1次（另有 1 次預定）
+* **大阪** (關西KIX): 1次（另有 2 次預定）
 * **名古屋** (中部NGO): 2次
 * **福岡** (FUK): 2次
 * **沖繩** (那霸OKA): 3次
@@ -126,6 +149,11 @@ pageClass: flight-history-page
 ### 韓國 (1 城市)
 * **首爾** (仁川ICN): 1次
 
+### 土耳其（3 座預定城市）
+* **開塞利** (ASR): 1 次預定
+* **安塔利亞** (AYT): 1 次預定
+* **伊斯坦堡** (IST): 1 次預定
+
 ### 其他
 * **香港** (HKG): 1次
 
@@ -134,7 +162,7 @@ pageClass: flight-history-page
 ## 🛫 航空/船公司體驗統計
 * **Starlux 星宇**: 6次
 * **China Airlines 華航**: 7次
-* **EVA 長榮**: 4次
+* **EVA 長榮**: 6次
 * **JAL 日航**: 5次（含 1 段由 Japan Transocean Air 營運）
 * **Scoot 酷航**: 3次
 * **ANA 全日空**: 2次
@@ -144,18 +172,20 @@ pageClass: flight-history-page
 * **JAA**: 2次
 * **Cathay Pacific 國泰**: 2次
 * **Peach 樂桃**: 1次
-* **AirAsia 亞航**: 1次
+* **AirAsia 亞航**: 2次
 * **AirAsia X 亞航長程**: 1次
 * **Jetstar Japan 捷星日本**: 1次
 * **Thai Airways 泰航**: 1次
 * **Malaysia Airlines 馬航**: 1次
 * **Thai Vietjet Air 泰越捷航空**: 3次
+* **Turkish Airlines 土耳其航空**: 4次
 * **八重山丸**: 2次
 
 ---
 
 ## 📝 備註
 * \* 標記表示特殊航班(單程或國內線轉機)
+* AK177 為大阪關西直飛台北桃園的預定航班，起降時間皆為當地時間。
 * 石垣島為搭船紀錄，不列入純航班統計時請扣除 2 段船班
 * Travel Type 說明:
     * **Family**: 家庭旅行

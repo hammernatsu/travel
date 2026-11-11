@@ -6,8 +6,8 @@ pageClass: flight-history-page
 # My Flight History
 
 ## 📊 Statistics
-- **Total Trips**: 25 trips
-- **Total Flights/Ferry Segments**: 50 segments
+- **Total Trips**: 27 trips
+- **Total Flights/Ferry Segments**: 57 segments
 - **Period**: 2001 - 2027
 - **Travel Types**: Family, Ray, ME
 
@@ -42,6 +42,8 @@ pageClass: flight-history-page
 | 23* | 2026/09/25 | 2026/10/04 | TPE<br>HND<br>OKJ | NRT<br>OKJ<br>TPE | Thai Lion<br>JAL (Japan Transocean Air)<br>Tiger | SL394<br>JL233<br>IT715 | B787-800<br>B737-800<br>A320 | Ray | A Decade Moment |
 | 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | Solo CNY Trip |
 | 25  | 2027/07/16 | 2027/07/20 | TPE<br>BKK | BKK<br>TPE | Thai Vietjet Air<br>Thai Vietjet Air | VZ567<br>VZ566 | | Ray | Bangkok |
+| 26* | 2027/08/23 20:55 | 2027/08/23 23:15 | KIX | TPE | AirAsia | AK177 | | | Osaka |
+| 27* | 2027/09/09 | 2027/09/19 | TPE<br>HKG<br>IST<br>AYT<br>IST<br>CAN | HKG<br>IST<br>ASR<br>IST<br>CAN<br>TPE | EVA<br>Turkish Airlines<br>Turkish Airlines<br>Turkish Airlines<br>Turkish Airlines<br>EVA |  |  |  | [Türkiye](#turkiye-2027) |
 
 ---
 
@@ -99,8 +101,29 @@ pageClass: flight-history-page
 | 48  | 2027/02/14   | NRT       | TPE       | Jetstar Japan | GK11 | A320 | ME | Solo CNY Trip |
 | 49  | 2027/07/16 15:25 | TPE | BKK | Thai Vietjet Air | VZ567 | | Ray | Bangkok |
 | 50  | 2027/07/20 01:55 | BKK | TPE | Thai Vietjet Air | VZ566 | | Ray | Bangkok |
+| 51  | 2027/08/23 20:55 | KIX | TPE | AirAsia | AK177 | | | Osaka |
+| 52 | 2027/09/09 16:40 | TPE | HKG | EVA |  |  |  | [Türkiye](#turkiye-2027) |
+| 53 | 2027/09/10 10:55 | HKG | IST | Turkish Airlines |  |  |  | [Türkiye](#turkiye-2027) |
+| 54 | 2027/09/10 | IST | ASR | Turkish Airlines |  |  |  | [Türkiye](#turkiye-2027) |
+| 55 | 2027/09/16 11:20 | AYT | IST | Turkish Airlines |  |  |  | [Türkiye](#turkiye-2027) |
+| 56 | 2027/09/18 15:50 | IST | CAN | Turkish Airlines |  |  |  | [Türkiye](#turkiye-2027) |
+| 57 | 2027/09/19 13:10 | CAN | TPE | EVA |  |  |  | [Türkiye](#turkiye-2027) |
 
 > Both Bangkok flights in July 2027 are confirmed; times are local to the departure airport.
+
+---
+
+## 🇹🇷 September 2027 Türkiye Itinerary {#turkiye-2027}
+
+Departure and arrival times are local. The Hong Kong to Kayseri row shows the overall schedule and duration for the connection via Istanbul.
+
+| Route | Departure | Arrival | Airline | Cabin / Booking Class | Duration |
+|---|---|---|---|---|---|
+| Taipei Taoyuan (TPE) → Hong Kong (HKG) | Sep 9, 16:40 | Sep 9, 18:30 | EVA Air (BR) | Economy (I) | 1 h 50 min |
+| Hong Kong (HKG) → Istanbul (IST) → Kayseri (ASR) | Sep 10, 10:55 | Sep 10, 23:05 | Turkish Airlines (TK) | Business (I) on both flights | 17 h 10 min |
+| Antalya (AYT) → Istanbul (IST) | Sep 16, 11:20 | Sep 16, 12:55 | Turkish Airlines (TK) | Business (I) | 1 h 35 min |
+| Istanbul (IST) → Guangzhou (CAN) | Sep 18, 15:50 | Sep 19, 07:00 | Turkish Airlines (TK) | Business (I) | 10 h 10 min |
+| Guangzhou (CAN) → Taipei Taoyuan (TPE) | Sep 19, 13:10 | Sep 19, 15:20 | EVA Air (BR) | Economy (I) | 2 h 10 min |
 
 ---
 
@@ -110,7 +133,7 @@ pageClass: flight-history-page
 
 ### Japan (10 Cities)
 - **Tokyo** (Narita NRT/Haneda HND): 7 times (plus 1 scheduled trip)
-- **Osaka** (Kansai KIX): 1 time (plus 1 scheduled trip)
+- **Osaka** (Kansai KIX): 1 time (plus 2 scheduled trips)
 - **Nagoya** (Chubu NGO): 2 times
 - **Fukuoka** (FUK): 2 times
 - **Okinawa** (Naha OKA): 3 times
@@ -127,6 +150,11 @@ pageClass: flight-history-page
 ### South Korea (1 City)
 - **Seoul** (Incheon ICN): 1 time
 
+### Türkiye (3 Scheduled Cities)
+- **Kayseri** (ASR): 1 scheduled trip
+- **Antalya** (AYT): 1 scheduled trip
+- **Istanbul** (IST): 1 scheduled trip
+
 ### Others
 - **Hong Kong** (HKG): 1 time
 
@@ -135,7 +163,7 @@ pageClass: flight-history-page
 ## 🛫 Airline/Ferry Operator Experience Statistics
 - **China Airlines**: 7 times
 - **Starlux**: 6 times ⭐
-- **EVA Air**: 4 times
+- **EVA Air**: 6 times
 - **Japan Airlines (JAL)**: 5 times (including 1 segment operated by Japan Transocean Air)
 - **Scoot**: 3 times
 - **All Nippon Airways (ANA)**: 2 times
@@ -145,18 +173,20 @@ pageClass: flight-history-page
 - **JAA (Japan Asia Airways)**: 2 times
 - **Cathay Pacific**: 2 times
 - **Peach**: 1 time
-- **AirAsia**: 1 time
+- **AirAsia**: 2 times
 - **AirAsia X**: 1 time
 - **Jetstar Japan**: 1 time
 - **Thai Airways**: 1 time
 - **Malaysia Airlines**: 1 time
 - **Thai Vietjet Air**: 3 times
+- **Turkish Airlines**: 4 times
 - **Yaeyama Maru**: 2 times
 
 ---
 
 ## 📝 Notes
 - \* indicates special flights (one-way or domestic connecting flights)
+- AK177 is a scheduled nonstop flight from Osaka Kansai to Taipei Taoyuan. Departure and arrival times are local.
 - Ishigaki is a ferry record; subtract 2 ferry segments for flight-only statistics
 - Travel Type Descriptions:
     * **Family**: Family trips

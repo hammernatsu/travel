@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: 飛行統計
-    details: 25 趟旅程，50 段航班/船班，跨越日本、泰國、韓國等多個國家。
+    details: 27 趟旅程，57 段航班/船班，跨越日本、泰國、韓國、土耳其等多個國家。
   - title: 詳細記錄
     details: 包含航空公司、機型、航班號碼與詳細日期的完整資料庫。
   - title: 旅遊手札
@@ -48,8 +48,8 @@ features:
 
 | 項目 / Category | 數據 / Data |
 |-----------------|-------------|
-| **總旅程數 / Total Trips** | 25 趟 / 25 trips |
-| **總航班/船班數 / Total Flight/Ferry Segments** | 50 段 / 50 segments |
+| **總旅程數 / Total Trips** | 27 趟 / 27 trips |
+| **總航班/船班數 / Total Flight/Ferry Segments** | 57 段 / 57 segments |
 | **記錄期間 / Period** | 2001 - 2027 |
 | **旅行類型 / Travel Types** | Family / Ray / ME |
 
@@ -78,6 +78,11 @@ features:
 ### 🇲🇾 馬來西亞 / Malaysia
 - 吉隆坡 Kuala Lumpur (KUL)
 
+### 🇹🇷 土耳其 / Türkiye（預定 / Scheduled）
+- 開塞利 Kayseri (ASR)
+- 安塔利亞 Antalya (AYT)
+- 伊斯坦堡 Istanbul (IST)
+
 ### 🇭🇰 香港 / Hong Kong
 - 香港 Hong Kong (HKG)
 
@@ -100,6 +105,7 @@ features:
 - ✈️ Thai Airways / 泰國航空
 - ✈️ Malaysia Airlines / 馬來西亞航空
 - ✈️ Thai Vietjet Air / 泰越捷航空
+- ✈️ Turkish Airlines / 土耳其航空
 - ⛴️ Yaeyama Maru / 八重山丸
 
 ## 🔖 旅行類型說明 / Travel Type Description
@@ -132,4 +138,4 @@ features:
 
 ---
 
-*最後更新 / Last Updated: 2026/10/06*
+*最後更新 / Last Updated: 2026/11/11*
