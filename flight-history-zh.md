@@ -43,7 +43,7 @@ pageClass: flight-history-page
 | 24  | 2027/02/07 | 2027/02/14 | TPE<br>NRT | KIX<br>TPE | AirAsia X<br>Jetstar Japan | D7378<br>GK11 | A330<br>A320 | ME | 過年獨旅 |
 | 25  | 2027/07/16 | 2027/07/20 | TPE<br>BKK | BKK<br>TPE | Thai Vietjet Air<br>Thai Vietjet Air | VZ567<br>VZ566 | | Ray | 曼谷 |
 | 26* | 2027/08/23 20:55 | 2027/08/23 23:15 | KIX | TPE | AirAsia | AK177 | | | 大阪 |
-| 27* | 2027/09/09 | 2027/09/19 | TPE<br>HKG<br>IST<br>AYT<br>IST<br>CAN | HKG<br>IST<br>ASR<br>IST<br>CAN<br>TPE | EVA<br>Turkish Airlines<br>Turkish Airlines<br>Turkish Airlines<br>Turkish Airlines<br>EVA |  |  |  | [土耳其](#turkiye-2027) |
+| 27* | 2027/09/09 | 2027/09/19 | TPE<br>HKG<br>IST<br>AYT<br>IST<br>CAN | HKG<br>IST<br>ASR<br>IST<br>CAN<br>TPE | EVA<br>Turkish Airlines<br>Turkish Airlines<br>Turkish Airlines<br>Turkish Airlines<br>EVA | BR871<br>TK171<br>TK2026<br>TK2411<br>TK298<br>BR708 |  |  | 土耳其 |
 
 ---
 
@@ -102,12 +102,12 @@ pageClass: flight-history-page
 | 49  | 2027/07/16 15:25 | TPE | BKK | Thai Vietjet Air | VZ567 | | Ray | 曼谷 |
 | 50  | 2027/07/20 01:55 | BKK | TPE | Thai Vietjet Air | VZ566 | | Ray | 曼谷 |
 | 51  | 2027/08/23 20:55 | KIX | TPE | AirAsia | AK177 | | | 大阪 |
-| 52 | 2027/09/09 16:40 | TPE | HKG | EVA |  |  |  | [土耳其](#turkiye-2027) |
-| 53 | 2027/09/10 10:55 | HKG | IST | Turkish Airlines |  |  |  | [土耳其](#turkiye-2027) |
-| 54 | 2027/09/10 | IST | ASR | Turkish Airlines |  |  |  | [土耳其](#turkiye-2027) |
-| 55 | 2027/09/16 11:20 | AYT | IST | Turkish Airlines |  |  |  | [土耳其](#turkiye-2027) |
-| 56 | 2027/09/18 15:50 | IST | CAN | Turkish Airlines |  |  |  | [土耳其](#turkiye-2027) |
-| 57 | 2027/09/19 13:10 | CAN | TPE | EVA |  |  |  | [土耳其](#turkiye-2027) |
+| 52 | 2027/09/09 16:40 → 18:30 | TPE | HKG | EVA | BR871 |  |  | 土耳其 |
+| 53 | 2027/09/10 10:55 → 17:25 | HKG | IST | Turkish Airlines | TK171 |  |  | 土耳其 |
+| 54 | 2027/09/10 21:40 → 23:05 | IST | ASR | Turkish Airlines | TK2026 |  |  | 土耳其 |
+| 55 | 2027/09/16 11:20 → 12:55 | AYT | IST | Turkish Airlines | TK2411 |  |  | 土耳其 |
+| 56 | 2027/09/18 15:50 → 09/19 07:00 | IST | CAN | Turkish Airlines | TK298 |  |  | 土耳其 |
+| 57 | 2027/09/19 13:10 → 15:20 | CAN | TPE | EVA | BR708 |  |  | 土耳其 |
 
 
 ---
